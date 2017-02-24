@@ -1,0 +1,1279 @@
+------------- EPOCH0 ----------------
+Time taken: 
+2340.856814622879
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ns younger in its brain. so when we get older  we "
+ns younger in its brain. so when we get older  we  e e e e e e e e e e dey e efe e e e e e e e e e e
+
+----- diversity: 0.5
+----- Generating with seed: "ns younger in its brain. so when we get older  we "
+ns younger in its brain. so when we get older  we e e e e e e e e e e e e e e e e e ece e     e wee 
+
+----- diversity: 1.0
+----- Generating with seed: "ns younger in its brain. so when we get older  we "
+ns younger in its brain. so when we get older  we   e   ee e e  ee e  ue ele  oeeie e e e e e e  e e
+
+----- diversity: 1.2
+----- Generating with seed: "ns younger in its brain. so when we get older  we "
+ns younger in its brain. so when we get older  we e e e e    ee e e e e e e e    ee  a oe e   e  e e
+
+
+------------- EPOCH1 ----------------
+Time taken: 
+2342.335008621216
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "nt on exporting iron ore and natural gas to china."
+nt on exporting iron ore and natural gas to china.                            e     e e e e e e     
+
+----- diversity: 0.5
+----- Generating with seed: "nt on exporting iron ore and natural gas to china."
+nt on exporting iron ore and natural gas to china.     e e e e e         e e e e e e    e  e e ee e 
+
+----- diversity: 1.0
+----- Generating with seed: "nt on exporting iron ore and natural gas to china."
+nt on exporting iron ore and natural gas to china.e e e ee e e  e   e ee e   e     e       e e    ee
+
+----- diversity: 1.2
+----- Generating with seed: "nt on exporting iron ore and natural gas to china."
+nt on exporting iron ore and natural gas to china. e   e e eee e ee  e e   e e e e e   e   e      e 
+
+
+------------- EPOCH2 ----------------
+Time taken: 
+2345.1950800418854
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ithout a stick or anything to figure out what path"
+ithout a stick or anything to figure out what path e e e e ie e  ie  e e e e e e e e e e  ee e e ie 
+
+----- diversity: 0.5
+----- Generating with seed: "ithout a stick or anything to figure out what path"
+ithout a stick or anything to figure out what path e  e  ieee ee  iee  ee   ee i i  ie e e  i e e ee
+
+----- diversity: 1.0
+----- Generating with seed: "ithout a stick or anything to figure out what path"
+ithout a stick or anything to figure out what pathe e iee e eee i  eee e e iie e i ie iie iiie eie e
+
+----- diversity: 1.2
+----- Generating with seed: "ithout a stick or anything to figure out what path"
+ithout a stick or anything to figure out what pathieie ie ie ie eii e ei ie ii e e ee ee ee e e e i 
+
+
+------------- EPOCH3 ----------------
+Time taken: 
+2336.4462163448334
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ng the rent. and maybe this is just a san francisc"
+ng the rent. and maybe this is just a san franciscs saase as a as aas a aa ae ra is a a ea so a aa a
+
+----- diversity: 0.5
+----- Generating with seed: "ng the rent. and maybe this is just a san francisc"
+ng the rent. and maybe this is just a san francisca  a ao  aa aareaa is are iaa aea s aae a s ar aae
+
+----- diversity: 1.0
+----- Generating with seed: "ng the rent. and maybe this is just a san francisc"
+ng the rent. and maybe this is just a san franciscseas is areis a s aaresse arai aaisa a e e are are
+
+----- diversity: 1.2
+----- Generating with seed: "ng the rent. and maybe this is just a san francisc"
+ng the rent. and maybe this is just a san franciscs aro  oss asases iserorare ae i  aia a ores are e
+
+
+------------- EPOCH4 ----------------
+Time taken: 
+2344.0327231884003
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ting from this war. but today the international dr"
+ting from this war. but today the international dr t aatrere ie  ie t ea   are ie is ioe ioe ar ire 
+
+----- diversity: 0.5
+----- Generating with seed: "ting from this war. but today the international dr"
+ting from this war. but today the international dro ioe re or  ia o i eri e  e ao a e to ie ateer s 
+
+----- diversity: 1.0
+----- Generating with seed: "ting from this war. but today the international dr"
+ting from this war. but today the international drritir te e ea eot i ioeer ataa ar t oreasires  oe 
+
+----- diversity: 1.2
+----- Generating with seed: "ting from this war. but today the international dr"
+ting from this war. but today the international dr te ii i  erie rete oetarerit iereorttt s  ire ees
+
+
+------------- EPOCH5 ----------------
+Time taken: 
+2364.655246734619
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "t's about twice as high as africanamericans are re"
+t's about twice as high as africanamericans are re  it t ti t t t t t i i  i t t t t t  iot t t i tt
+
+----- diversity: 0.5
+----- Generating with seed: "t's about twice as high as africanamericans are re"
+t's about twice as high as africanamericans are re t toe  o ii is r s e e ti r t   t art  t i e e t 
+
+----- diversity: 1.0
+----- Generating with seed: "t's about twice as high as africanamericans are re"
+t's about twice as high as africanamericans are re  iar tetorter tis t ie trtis esee  tr  ti etre er
+
+----- diversity: 1.2
+----- Generating with seed: "t's about twice as high as africanamericans are re"
+t's about twice as high as africanamericans are re tat ie t is rr ai arr   e iis tr  isarie rai ae a
+
+
+------------- EPOCH6 ----------------
+Time taken: 
+2346.9259140491486
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "t's also a beautiful opera and we're moved by that"
+t's also a beautiful opera and we're moved by thate s  tit se  toqt t t aite t t tre  o aee  ae e os
+
+----- diversity: 0.5
+----- Generating with seed: "t's also a beautiful opera and we're moved by that"
+t's also a beautiful opera and we're moved by thato sotisot oro tese to  s itss ae oo ia  oittoet ie
+
+----- diversity: 1.0
+----- Generating with seed: "t's also a beautiful opera and we're moved by that"
+t's also a beautiful opera and we're moved by thatat peso ieie ee e re to to aee ri aiiotaee sio  s 
+
+----- diversity: 1.2
+----- Generating with seed: "t's also a beautiful opera and we're moved by that"
+t's also a beautiful opera and we're moved by thatt iaraoe ex ei hii t aiet ititia osi o se irs tia 
+
+
+------------- EPOCH7 ----------------
+Time taken: 
+2315.694887638092
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "wished i'd experienced the whole journey of this p"
+wished i'd experienced the whole journey of this ps tae e  ee t tea t  ttete tera at e eeita eateee 
+
+----- diversity: 0.5
+----- Generating with seed: "wished i'd experienced the whole journey of this p"
+wished i'd experienced the whole journey of this pei re soeeeao taote  aero sreeaee toeeiee titttati
+
+----- diversity: 1.0
+----- Generating with seed: "wished i'd experienced the whole journey of this p"
+wished i'd experienced the whole journey of this por soaiiersoosssoris eo e osoaes at rseratta aorar
+
+----- diversity: 1.2
+----- Generating with seed: "wished i'd experienced the whole journey of this p"
+wished i'd experienced the whole journey of this ptitrat ooi  tisse ta iteaataeaeoree t tiesa assore
+
+
+------------- EPOCH8 ----------------
+Time taken: 
+2310.1398932933807
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "us task but a lot of these ideas they're hard to u"
+us task but a lot of these ideas they're hard to us to o  i o  as as a  aa  ss o  a s t t s  a s t  
+
+----- diversity: 0.5
+----- Generating with seed: "us task but a lot of these ideas they're hard to u"
+us task but a lot of these ideas they're hard to us o  as asso e aei e   at s eeato ose  te s t as a
+
+----- diversity: 1.0
+----- Generating with seed: "us task but a lot of these ideas they're hard to u"
+us task but a lot of these ideas they're hard to uses tosss o  a itort sia  tt t as a to ssossse aea
+
+----- diversity: 1.2
+----- Generating with seed: "us task but a lot of these ideas they're hard to u"
+us task but a lot of these ideas they're hard to uieesseoea  is t  i t ai e  siseaos  eeaorteas s o 
+
+
+------------- EPOCH9 ----------------
+Time taken: 
+2307.4070694446564
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "stice. and it's of course where martin luther king"
+stice. and it's of course where martin luther king t ee e  t  t t a a  a t t te t t te ae  t t  t ae
+
+----- diversity: 0.5
+----- Generating with seed: "stice. and it's of course where martin luther king"
+stice. and it's of course where martin luther king teetes eeee t t ei ae at es a ere s o  toe  tt a 
+
+----- diversity: 1.0
+----- Generating with seed: "stice. and it's of course where martin luther king"
+stice. and it's of course where martin luther kingsi ar te a r a s  t  ta  eeriate aeattase tiireiit
+
+----- diversity: 1.2
+----- Generating with seed: "stice. and it's of course where martin luther king"
+stice. and it's of course where martin luther kingtsi t sote taesisttsirtieie ea it s tieeso iooe  e
+
+
+------------- EPOCH10 ----------------
+Time taken: 
+2311.4461884498596
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " have to say this in the houses  it's her plan to "
+ have to say this in the houses  it's her plan to i t a i  i i it i ii    e   a i a i a   i a t i i 
+
+----- diversity: 0.5
+----- Generating with seed: " have to say this in the houses  it's her plan to "
+ have to say this in the houses  it's her plan to  i t a    i  a i  te   i is   o i   a is i a i  i 
+
+----- diversity: 1.0
+----- Generating with seed: " have to say this in the houses  it's her plan to "
+ have to say this in the houses  it's her plan to r  ta eet sosise ta ii aeeo  ie eei ie a e e e a t
+
+----- diversity: 1.2
+----- Generating with seed: " have to say this in the houses  it's her plan to "
+ have to say this in the houses  it's her plan to  i ess se t ra e ser iea ai iti es  r ie es eas ie
+
+
+------------- EPOCH11 ----------------
+Time taken: 
+2318.87602353096
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "y grandmother or my brother but i waited too long."
+y grandmother or my brother but i waited too long.t t  t tet t tt t t t t t t t i tt t t i t t ti t 
+
+----- diversity: 0.5
+----- Generating with seed: "y grandmother or my brother but i waited too long."
+y grandmother or my brother but i waited too long.s t r tt  ttto i treer tt itrorei t irt s t s ttte
+
+----- diversity: 1.0
+----- Generating with seed: "y grandmother or my brother but i waited too long."
+y grandmother or my brother but i waited too long.titireiita tr isit t toeitioir r ts tr retorteto t
+
+----- diversity: 1.2
+----- Generating with seed: "y grandmother or my brother but i waited too long."
+y grandmother or my brother but i waited too long.st irttiiiat titte iiitt ts ai ratsas air siis  tr
+
+
+------------- EPOCH12 ----------------
+Time taken: 
+2315.491610765457
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "d who shot up virginia tech. stage one is a group "
+d who shot up virginia tech. stage one is a group t  t ar a e   te at e a  e a t t se e te a e t aa 
+
+----- diversity: 0.5
+----- Generating with seed: "d who shot up virginia tech. stage one is a group "
+d who shot up virginia tech. stage one is a group re srt ae  s  e  a se  tese a  a s  iararrs te sor
+
+----- diversity: 1.0
+----- Generating with seed: "d who shot up virginia tech. stage one is a group "
+d who shot up virginia tech. stage one is a group r re rrars e t  srttosos r ritr e a tesraaat arase
+
+----- diversity: 1.2
+----- Generating with seed: "d who shot up virginia tech. stage one is a group "
+d who shot up virginia tech. stage one is a group r sss seeo oetrisee  esstoa e aiase i s os aee  sa
+
+
+------------- EPOCH13 ----------------
+Time taken: 
+2321.4128828048706
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " as beautiful.
+now if you're no longer a traffic c"
+ as beautiful.
+now if you're no longer a traffic c ie s e e st ie oie te  ie iis tie ii isse  i' s i
+
+----- diversity: 0.5
+----- Generating with seed: " as beautiful.
+now if you're no longer a traffic c"
+ as beautiful.
+now if you're no longer a traffic ceoioes is isre  t  i ee tes oe is oe  s ais  s i t
+
+----- diversity: 1.0
+----- Generating with seed: " as beautiful.
+now if you're no longer a traffic c"
+ as beautiful.
+now if you're no longer a traffic cistsiiitte ier ies o  inia a sei sisss oe at o ias
+
+----- diversity: 1.2
+----- Generating with seed: " as beautiful.
+now if you're no longer a traffic c"
+ as beautiful.
+now if you're no longer a traffic cs itr a eost s s a i ite e  iroi teists nosthaes t
+
+
+------------- EPOCH14 ----------------
+Time taken: 
+2336.49041223526
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "lationship with them. and it seemed to me that the"
+lationship with them. and it seemed to me that thea t aao oois t o o a as oa a tse t iote to t t a i
+
+----- diversity: 0.5
+----- Generating with seed: "lationship with them. and it seemed to me that the"
+lationship with them. and it seemed to me that there e teari o ieat a at ee  at ti t at ias ete teit
+
+----- diversity: 1.0
+----- Generating with seed: "lationship with them. and it seemed to me that the"
+lationship with them. and it seemed to me that theoi otat s att isart troa ts saeoeee t e rortes ro 
+
+----- diversity: 1.2
+----- Generating with seed: "lationship with them. and it seemed to me that the"
+lationship with them. and it seemed to me that the r aaoiiea aaes ee rira tiis aea  as atte tea iirt
+
+
+------------- EPOCH15 ----------------
+Time taken: 
+2335.2539751529694
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "needed something. i needed an anchor an image a pe"
+needed something. i needed an anchor an image a pet ot t t t tt tt tt tt tt ttt  tttit ttt tt tt t t
+
+----- diversity: 0.5
+----- Generating with seed: "needed something. i needed an anchor an image a pe"
+needed something. i needed an anchor an image a pert tt ttrt a tttt tto t tioe t t it ttit att tta t
+
+----- diversity: 1.0
+----- Generating with seed: "needed something. i needed an anchor an image a pe"
+needed something. i needed an anchor an image a peossieoto t toioroiioarrt  attttsttisra trs oeeriti
+
+----- diversity: 1.2
+----- Generating with seed: "needed something. i needed an anchor an image a pe"
+needed something. i needed an anchor an image a pett raoeiaort ra trot t toer  iero to ei rati oerrt
+
+
+------------- EPOCH16 ----------------
+Time taken: 
+2341.7894501686096
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ut los zetas the knights templar which is the new "
+ut los zetas the knights templar which is the new s at tes s ao tet t o t ie i  o  ta as ao t ao t i
+
+----- diversity: 0.5
+----- Generating with seed: "ut los zetas the knights templar which is the new "
+ut los zetas the knights templar which is the new  ai t ts oo ta s isttts i tras ee tse a tit tossoo
+
+----- diversity: 1.0
+----- Generating with seed: "ut los zetas the knights templar which is the new "
+ut los zetas the knights templar which is the new o i osoo a esoreiaiosatoroeto e it   oosaiss  sra 
+
+----- diversity: 1.2
+----- Generating with seed: "ut los zetas the knights templar which is the new "
+ut los zetas the knights templar which is the new sit eee set s  osr ssote t t soto iaoseeest oeotea
+
+
+------------- EPOCH17 ----------------
+Time taken: 
+2346.3825058937073
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "coral and where does it come from? corals are born"
+coral and where does it come from? corals are bornare to it a is is to to to to to to to are to to t
+
+----- diversity: 0.5
+----- Generating with seed: "coral and where does it come from? corals are born"
+coral and where does it come from? corals are bornsor are i to to are a is are a to sore is is to ro
+
+----- diversity: 1.0
+----- Generating with seed: "coral and where does it come from? corals are born"
+coral and where does it come from? corals are bornet it a to is ois is eists orsterast orieee eoters
+
+----- diversity: 1.2
+----- Generating with seed: "coral and where does it come from? corals are born"
+coral and where does it come from? corals are borntre ro riarar sas aorsiore roeriere i tearitierse 
+
+
+------------- EPOCH18 ----------------
+Time taken: 
+2329.7043766975403
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ike my first computer was a big movement in my lif"
+ike my first computer was a big movement in my lifst os t ot t ot t os trete to to to ree t t ot t o
+
+----- diversity: 0.5
+----- Generating with seed: "ike my first computer was a big movement in my lif"
+ike my first computer was a big movement in my lifre s ere ot t ot t ot ot t oo os are eriee t t ot 
+
+----- diversity: 1.0
+----- Generating with seed: "ike my first computer was a big movement in my lif"
+ike my first computer was a big movement in my lifris o s are at e o tro t are ttito atreto ter et o
+
+----- diversity: 1.2
+----- Generating with seed: "ike my first computer was a big movement in my lif"
+ike my first computer was a big movement in my life os att  as itr t oret erereeseroore etesetitortr
+
+
+------------- EPOCH19 ----------------
+Time taken: 
+2317.3015315532684
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "e space industry?" obviously "he started with a la"
+e space industry?" obviously "he started with a laere ioi ioroos o  or o io i  i t io tois io to too
+
+----- diversity: 0.5
+----- Generating with seed: "e space industry?" obviously "he started with a la"
+e space industry?" obviously "he started with a la t oe  o oo o isr or t toos ors s to oro io iioeo 
+
+----- diversity: 1.0
+----- Generating with seed: "e space industry?" obviously "he started with a la"
+e space industry?" obviously "he started with a la otorae ooeer ootois te t i irri tisotr r attie oo
+
+----- diversity: 1.2
+----- Generating with seed: "e space industry?" obviously "he started with a la"
+e space industry?" obviously "he started with a la aaoio treaooia ai  eo r airate are oio esoio oia 
+
+
+------------- EPOCH20 ----------------
+Time taken: 
+2324.86602973938
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "really as good as the rat?" the rat is an entire o"
+really as good as the rat?" the rat is an entire o e t te t t t t o t t o t  t t t te it it te t tet
+
+----- diversity: 0.5
+----- Generating with seed: "really as good as the rat?" the rat is an entire o"
+really as good as the rat?" the rat is an entire o tot too t t oe t t s ise tet t tet t o t iter te 
+
+----- diversity: 1.0
+----- Generating with seed: "really as good as the rat?" the rat is an entire o"
+really as good as the rat?" the rat is an entire oto er t tiis i atostat e t s raao e  eo o tiso tee
+
+----- diversity: 1.2
+----- Generating with seed: "really as good as the rat?" the rat is an entire o"
+really as good as the rat?" the rat is an entire oiit ireoee r so  re t sio oee t te ti t  i itose e
+
+
+------------- EPOCH21 ----------------
+Time taken: 
+2330.309838294983
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ion. the challenge: to figure out what it will tak"
+ion. the challenge: to figure out what it will takr iit iiiii iai i iiii i iir ir iiiiiia i i a  ii 
+
+----- diversity: 0.5
+----- Generating with seed: "ion. the challenge: to figure out what it will tak"
+ion. the challenge: to figure out what it will tako i ar tii i  r iriri o tii i ai t io ti s to io i
+
+----- diversity: 1.0
+----- Generating with seed: "ion. the challenge: to figure out what it will tak"
+ion. the challenge: to figure out what it will tak tere aorrires ori oeiatoais ia rt aa ea oriiis ai
+
+----- diversity: 1.2
+----- Generating with seed: "ion. the challenge: to figure out what it will tak"
+ion. the challenge: to figure out what it will takoar teis a a triori aor t t atoo a i iaia t irir i
+
+
+------------- EPOCH22 ----------------
+Time taken: 
+2331.3547990322113
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "snatched away by a false memory.
+but meanwhile we "
+snatched away by a false memory.
+but meanwhile we  a a a aaa aae seas toaat ar a aar a a a a a a tat
+
+----- diversity: 0.5
+----- Generating with seed: "snatched away by a false memory.
+but meanwhile we "
+snatched away by a false memory.
+but meanwhile we aseaa sotaie ao titater asititea t io t t aaeeaaat
+
+----- diversity: 1.0
+----- Generating with seed: "snatched away by a false memory.
+but meanwhile we "
+snatched away by a false memory.
+but meanwhile we aassasaitite isea aaiie ateeia ata a s iiore e ars
+
+----- diversity: 1.2
+----- Generating with seed: "snatched away by a false memory.
+but meanwhile we "
+snatched away by a false memory.
+but meanwhile we ae  te is iiia to eiaast tot iioer tietie as as at
+
+
+------------- EPOCH23 ----------------
+Time taken: 
+2333.861335039139
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "numbers coming out there and to just drop it into "
+numbers coming out there and to just drop it into  t te t t t t t te t t t t t t te tot t toto t t t
+
+----- diversity: 0.5
+----- Generating with seed: "numbers coming out there and to just drop it into "
+numbers coming out there and to just drop it into ttioo teo to te t to t ti t t t a s tt t t a a t t
+
+----- diversity: 1.0
+----- Generating with seed: "numbers coming out there and to just drop it into "
+numbers coming out there and to just drop it into siteis t t tta  tit aer ta tea  to t e taorteotrs 
+
+----- diversity: 1.2
+----- Generating with seed: "numbers coming out there and to just drop it into "
+numbers coming out there and to just drop it into   toiarts t oiteo ts a a t s saeraere tor roeta ae
+
+
+------------- EPOCH24 ----------------
+Time taken: 
+2329.32221698761
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " in college. anyway this is a song about: we have "
+ in college. anyway this is a song about: we have erer arereaaaaaaarer tereate rerartataarer to teer
+
+----- diversity: 0.5
+----- Generating with seed: " in college. anyway this is a song about: we have "
+ in college. anyway this is a song about: we have aaiatara atr rear aat trerer tae r aretttat asaara
+
+----- diversity: 1.0
+----- Generating with seed: " in college. anyway this is a song about: we have "
+ in college. anyway this is a song about: we have ot t tosareritreratattarrer aaerori r ato ireeaot 
+
+----- diversity: 1.2
+----- Generating with seed: " in college. anyway this is a song about: we have "
+ in college. anyway this is a song about: we have eserreeasisa ieite a asiteaeeia teeatsaretts aos r
+
+
+------------- EPOCH25 ----------------
+Time taken: 
+2322.9327766895294
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
+ind of lumber to the door. jump is a misnomer; you tooo to to t teo a teee t te te te to t to t te t
+
+----- diversity: 0.5
+----- Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
+ind of lumber to the door. jump is a misnomer; youo t tos toro eoeeooeoe  t to tt are to set t s t t
+
+----- diversity: 1.0
+----- Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
+ind of lumber to the door. jump is a misnomer; youtie se  terotrser ateo t ato teet i oto o aato t t
+
+----- diversity: 1.2
+----- Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
+ind of lumber to the door. jump is a misnomer; youes s    e tret tieo ia teetsoe torer oe eooes siie
+
+
+------------- EPOCH26 ----------------
+Time taken: 
+2319.628280878067
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ers. but i know that in science once you get the a"
+ers. but i know that in science once you get the atttttttttatatttasttttit tata tttttttater  tt t t t
+
+----- diversity: 0.5
+----- Generating with seed: "ers. but i know that in science once you get the a"
+ers. but i know that in science once you get the aetettos os ttit tiot tttitttaaotattrs ttt ttetttt 
+
+----- diversity: 1.0
+----- Generating with seed: "ers. but i know that in science once you get the a"
+ers. but i know that in science once you get the a s  taotars rset  t tatt irsiseateret tsait tessto
+
+----- diversity: 1.2
+----- Generating with seed: "ers. but i know that in science once you get the a"
+ers. but i know that in science once you get the ar aeoso tiiaets ist itioe st ee ro srret ar tta te
+
+
+------------- EPOCH27 ----------------
+Time taken: 
+2319.3469252586365
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "tiated solution for kosovo and the violence tensio"
+tiated solution for kosovo and the violence tensio t tetetet t tet tete t t tet  t tete ste t tet te
+
+----- diversity: 0.5
+----- Generating with seed: "tiated solution for kosovo and the violence tensio"
+tiated solution for kosovo and the violence tensio ottee t etetostito t tosste t t tetot tot tetete 
+
+----- diversity: 1.0
+----- Generating with seed: "tiated solution for kosovo and the violence tensio"
+tiated solution for kosovo and the violence tensiot  i sot tesst  atitreteo to st tooot tr ee  ttior
+
+----- diversity: 1.2
+----- Generating with seed: "tiated solution for kosovo and the violence tensio"
+tiated solution for kosovo and the violence tensios  t s  eass ot  setost rrsoasoe atoitistis trert 
+
+
+------------- EPOCH28 ----------------
+Time taken: 
+2320.3035893440247
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "outhern afghanistan or southern california. but in"
+outhern afghanistan or southern california. but ins tee t a t e soeoetiet it tosesoeat teite ie t at
+
+----- diversity: 0.5
+----- Generating with seed: "outhern afghanistan or southern california. but in"
+outhern afghanistan or southern california. but ins aoiis e t t to ia sto toieee   te to oio ia iooa
+
+----- diversity: 1.0
+----- Generating with seed: "outhern afghanistan or southern california. but in"
+outhern afghanistan or southern california. but inotooa  teeoetissioriisso s seaoeso t ee it tie oai
+
+----- diversity: 1.2
+----- Generating with seed: "outhern afghanistan or southern california. but in"
+outhern afghanistan or southern california. but intita ie sesoissia ateear t soaasoa toiooeatisiaooe
+
+
+------------- EPOCH29 ----------------
+Time taken: 
+2320.6636877059937
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ake of the tsunami was that although initially  th"
+ake of the tsunami was that although initially  thto to to to to to to to a tor to to to to to to to
+
+----- diversity: 0.5
+----- Generating with seed: "ake of the tsunami was that although initially  th"
+ake of the tsunami was that although initially  th to to to to tere to to to to as are to to to to t
+
+----- diversity: 1.0
+----- Generating with seed: "ake of the tsunami was that although initially  th"
+ake of the tsunami was that although initially  thiitter to to taet ttorat stoos a e so erote to are
+
+----- diversity: 1.2
+----- Generating with seed: "ake of the tsunami was that although initially  th"
+ake of the tsunami was that although initially  tht as to a soi tos ot i teor arttatre a trerero to 
+
+
+------------- EPOCH30 ----------------
+Time taken: 
+2318.943245410919
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "odels live and die by the strength of their networ"
+odels live and die by the strength of their networ to to to to to so to to to to so to to to so to t
+
+----- diversity: 0.5
+----- Generating with seed: "odels live and die by the strength of their networ"
+odels live and die by the strength of their networo or so so to sors to to to tos sos so to so sirt 
+
+----- diversity: 1.0
+----- Generating with seed: "odels live and die by the strength of their networ"
+odels live and die by the strength of their networto to errosirors so sarterrasiasss to sosstsorsiis
+
+----- diversity: 1.2
+----- Generating with seed: "odels live and die by the strength of their networ"
+odels live and die by the strength of their networo retriirrorsire a isist tieararsiserserasessosirs
+
+
+------------- EPOCH31 ----------------
+Time taken: 
+2325.17053771019
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "decided that what we like to do is take just a bit"
+decided that what we like to do is take just a bit to to to to to to a to to to to to to to a to to 
+
+----- diversity: 0.5
+----- Generating with seed: "decided that what we like to do is take just a bit"
+decided that what we like to do is take just a bito as to to a sattite a to to saa to a to to to a s
+
+----- diversity: 1.0
+----- Generating with seed: "decided that what we like to do is take just a bit"
+decided that what we like to do is take just a bitt to i seat saise to taar to sarte atire soesteres
+
+----- diversity: 1.2
+----- Generating with seed: "decided that what we like to do is take just a bit"
+decided that what we like to do is take just a bitt a a to soseas os to sirtesert arersaesaras a a t
+
+
+------------- EPOCH32 ----------------
+Time taken: 
+2323.779247522354
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "there were cardboard cutout snowflakes covering th"
+there were cardboard cutout snowflakes covering thto to to to to to to to to to to to to to to to to
+
+----- diversity: 0.5
+----- Generating with seed: "there were cardboard cutout snowflakes covering th"
+there were cardboard cutout snowflakes covering thtos tost is te is to a ot eot to to to so tos to t
+
+----- diversity: 1.0
+----- Generating with seed: "there were cardboard cutout snowflakes covering th"
+there were cardboard cutout snowflakes covering thto t iitii trit art at it is to to to o tea i ii i
+
+----- diversity: 1.2
+----- Generating with seed: "there were cardboard cutout snowflakes covering th"
+there were cardboard cutout snowflakes covering thtese  ato stitii si aso i sos eia taeat te is t to
+
+
+------------- EPOCH33 ----------------
+Time taken: 
+2335.0852479934692
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "of this peertopeer revolution means that sharing i"
+of this peertopeer revolution means that sharing io to to so to se to to to so to so to to to se tos
+
+----- diversity: 0.5
+----- Generating with seed: "of this peertopeer revolution means that sharing i"
+of this peertopeer revolution means that sharing ie to i so t tor a sos so tat ro is to se to se  so
+
+----- diversity: 1.0
+----- Generating with seed: "of this peertopeer revolution means that sharing i"
+of this peertopeer revolution means that sharing isos a to as a tor as as  to o at a so ai  to sis a
+
+----- diversity: 1.2
+----- Generating with seed: "of this peertopeer revolution means that sharing i"
+of this peertopeer revolution means that sharing ie isis t tte tot soso isi ars a i e is  os  ioor a
+
+
+------------- EPOCH34 ----------------
+Time taken: 
+2334.791386127472
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "hey're not set up technically to find the device.""
+hey're not set up technically to find the device."o o  o t o t as a as o at t t  t at t oo o aoe to 
+
+----- diversity: 0.5
+----- Generating with seed: "hey're not set up technically to find the device.""
+hey're not set up technically to find the device."oo o o  a aso so or o t   o   eoeosit to  arase s 
+
+----- diversity: 1.0
+----- Generating with seed: "hey're not set up technically to find the device.""
+hey're not set up technically to find the device."oi ore a is tote t o ee aas sto aaeosit oasoteeo  
+
+----- diversity: 1.2
+----- Generating with seed: "hey're not set up technically to find the device.""
+hey're not set up technically to find the device."tre taosore eeiireeeeo asse atseoo t saissor i iai
+
+
+------------- EPOCH35 ----------------
+Time taken: 
+2443.1679906845093
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "s time for you to get in the water." (laughter) an"
+s time for you to get in the water." (laughter) an a a a i a a a a a a a t at a a a a a a a a a a a 
+
+----- diversity: 0.5
+----- Generating with seed: "s time for you to get in the water." (laughter) an"
+s time for you to get in the water." (laughter) an a s as a a a a a are at a a are i ie a se t t t a
+
+----- diversity: 1.0
+----- Generating with seed: "s time for you to get in the water." (laughter) an"
+s time for you to get in the water." (laughter) an ii   a ie tt trre atitsa a  t  iia it aa a s ta  
+
+----- diversity: 1.2
+----- Generating with seed: "s time for you to get in the water." (laughter) an"
+s time for you to get in the water." (laughter) ant e tatt t a  er aso  a iia ia are a itree ia ie a
+
+
+------------- EPOCH36 ----------------
+Time taken: 
+2310.273180246353
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "racism is predictable. these things among maybe ot"
+racism is predictable. these things among maybe ot a oe a ao o t ar ao a o oo ro aro s a a oo a ao t
+
+----- diversity: 0.5
+----- Generating with seed: "racism is predictable. these things among maybe ot"
+racism is predictable. these things among maybe otsere taio ao rir t t arro o ao to si ter tr aaorr 
+
+----- diversity: 1.0
+----- Generating with seed: "racism is predictable. these things among maybe ot"
+racism is predictable. these things among maybe oteiereats t a iser so tatri are ars so orri oao a r
+
+----- diversity: 1.2
+----- Generating with seed: "racism is predictable. these things among maybe ot"
+racism is predictable. these things among maybe ot sto orr er sre assoiaererr isr tersr so sree aore
+
+
+------------- EPOCH37 ----------------
+Time taken: 
+2321.2787976264954
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "rred with all the other women that she works with "
+rred with all the other women that she works with  te tt tote t tit te tert tereret te tte t te tere
+
+----- diversity: 0.5
+----- Generating with seed: "rred with all the other women that she works with "
+rred with all the other women that she works with s to ater ttrtt te tis ite t tat tatatiee te ire t
+
+----- diversity: 1.0
+----- Generating with seed: "rred with all the other women that she works with "
+rred with all the other women that she works with ioersateeesere tisete sreto  ti eeste ra t iireeat
+
+----- diversity: 1.2
+----- Generating with seed: "rred with all the other women that she works with "
+rred with all the other women that she works with r  ie ritte aat ateseseoroo iisottaitr its itoerer
+
+
+------------- EPOCH0 ----------------
+Time taken: 
+6616.118532419205
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "nths later in the moment that neil armstrong set f"
+nths later in the moment that neil armstrong set f                 ee     o                         
+
+----- diversity: 1.0
+----- Generating with seed: "nths later in the moment that neil armstrong set f"
+nths later in the moment that neil armstrong set f  . ysqrlnes   omadt ahtt  sepnd d hdyo t t m tal 
+
+
+------------- EPOCH1 ----------------
+Time taken: 
+6605.2258977890015
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "rodemocracy movement in algeria today barakat. nor"
+rodemocracy movement in algeria today barakat. nor         e                    e                   
+
+----- diversity: 1.0
+----- Generating with seed: "rodemocracy movement in algeria today barakat. nor"
+rodemocracy movement in algeria today barakat. norted s
+itnsst f adgtssehbl  misnru e "eh  ts at rti
+
+
+------------- EPOCH2 ----------------
+Time taken: 
+6603.150911808014
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ng if you don't have any flat boards to work with?"
+ng if you don't have any flat boards to work with?         e                       o  e e   a  o    
+
+----- diversity: 1.0
+----- Generating with seed: "ng if you don't have any flat boards to work with?"
+ng if you don't have any flat boards to work with?o esewn hearcn taa.ad tsortiiithaetr esmssdmsenois
+
+
+------------- EPOCH0 ----------------
+Time taken: 
+6614.423802614212
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " on it. it makes it worse the fire spreads. our wh"
+ on it. it makes it worse the fire spreads. our wh  e          e                     a          e   
+
+----- diversity: 1.0
+----- Generating with seed: " on it. it makes it worse the fire spreads. our wh"
+ on it. it makes it worse the fire spreads. our whaie  oteottltvhah uemeteanftuaeh hhdekd h te sfart
+
+
+------------- EPOCH1 ----------------
+Time taken: 
+6615.634775400162
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "robotics to neuroscience saying don't underestimat"
+robotics to neuroscience saying don't underestimat                e      e   i                      
+
+----- diversity: 1.0
+----- Generating with seed: "robotics to neuroscience saying don't underestimat"
+robotics to neuroscience saying don't underestimat ltoeteilbete iliersu ro o e he  iar thchmtisrrc i
+
+
+------------- EPOCH2 ----------------
+Time taken: 
+6616.083013534546
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " one the fewest swedes picked isn't it? (laughter)"
+ one the fewest swedes picked isn't it? (laughter)ae    e          t                           a    
+
+----- diversity: 1.0
+----- Generating with seed: " one the fewest swedes picked isn't it? (laughter)"
+ one the fewest swedes picked isn't it? (laughter)o  h hr  a ues  i tue oiehpedelasrt n tooihdpyvlfa
+
+
+------------- EPOCH3 ----------------
+Time taken: 
+6609.858373880386
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "s limit of two degrees which is possible for us to"
+s limit of two degrees which is possible for us to        a    e                 e                 n
+
+----- diversity: 1.0
+----- Generating with seed: "s limit of two degrees which is possible for us to"
+s limit of two degrees which is possible for us tofdennemh af iu idiprnsaytn ieotensf ew r lobcostaf
+
+
+------------- EPOCH4 ----------------
+Time taken: 
+6613.312962055206
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "pitals china is using telemedicine to costeffectiv"
+pitals china is using telemedicine to costeffectiv           o                                      
+
+----- diversity: 1.0
+----- Generating with seed: "pitals china is using telemedicine to costeffectiv"
+pitals china is using telemedicine to costeffectivdaganawhostonm eiga'a snfeia trrabutrb n o uodnib 
+
+
+------------- EPOCH0 ----------------
+Time taken: 
+12342.820324420929
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ree trade leads to economic growth.
+the newly pres"
+ree trade leads to economic growth.
+the newly pres   t               e        i    t           n    
+
+----- diversity: 1.0
+----- Generating with seed: "ree trade leads to economic growth.
+the newly pres"
+ree trade leads to economic growth.
+the newly pressflmuee  aeoeh iewtt td ieohherygue iiees t etsh m
+
+
+------------- EPOCH1 ----------------
+Time taken: 
+12342.563768863678
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "nt to bring to the market. in a recent study that "
+nt to bring to the market. in a recent study that     t                  t           e              
+
+----- diversity: 1.0
+----- Generating with seed: "nt to bring to the market. in a recent study that "
+nt to bring to the market. in a recent study that is  iwokfc tmeim. i awt r) uei   nistf tsnt itsidd
+
+
+------------- EPOCH2 ----------------
+Time taken: 
+12330.72902584076
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "n specific height and width parameters. you had to"
+n specific height and width parameters. you had to  n       s  o                 t            s     
+
+----- diversity: 1.0
+----- Generating with seed: "n specific height and width parameters. you had to"
+n specific height and width parameters. you had toareeormsifmseesnnrctd os e uacstohrntelias ohnce .
+
+
+------------- EPOCH3 ----------------
+Time taken: 
+12349.984144687653
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " when it crosses that line then a lot of things re"
+ when it crosses that line then a lot of things re        o o                       ot              
+
+----- diversity: 1.0
+----- Generating with seed: " when it crosses that line then a lot of things re"
+ when it crosses that line then a lot of things reeoleorbra olng auntinhg  untamis h sl h d hstw tew
+
+
+------------- EPOCH4 ----------------
+Time taken: 
+12368.182783842087
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "set out to identify a genepatent holder that was v"
+set out to identify a genepatent holder that was v  sa t     it   a        e     e             t e  
+
+----- diversity: 1.0
+----- Generating with seed: "set out to identify a genepatent holder that was v"
+set out to identify a genepatent holder that was v h oo a onehoy tn to  etih d oemveae  l s loi nth 
+
+
+------------- EPOCH5 ----------------
+Time taken: 
+12373.686250448227
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "he answer: what happened to the world's poorest pe"
+he answer: what happened to the world's poorest pet    e         e      e             t   e     e   
+
+----- diversity: 1.0
+----- Generating with seed: "he answer: what happened to the world's poorest pe"
+he answer: what happened to the world's poorest peedibhiuttiorts yuokksin laeta ctb   iyrmagear   rt
+
+
+------------- EPOCH6 ----------------
+Time taken: 
+12403.279262065887
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "s was to replicate that in our robot. so we did a "
+s was to replicate that in our robot. so we did a             t  e   e   e e                 e e    
+
+----- diversity: 1.0
+----- Generating with seed: "s was to replicate that in our robot. so we did a "
+s was to replicate that in our robot. so we did a  eane e trtov onmteenewcnaunuahiett.arn t o i fnue
+
+
+------------- EPOCH7 ----------------
+Time taken: 
+12357.170676708221
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ities after  p.m. at night between  p.m. and  a.m."
+ities after  p.m. at night between  p.m. and  a.m. e            e        e    e              t      
+
+----- diversity: 1.0
+----- Generating with seed: "ities after  p.m. at night between  p.m. and  a.m."
+ities after  p.m. at night between  p.m. and  a.m.upfngvgayustmp  fn sa rr  wtaiotoeono nts atoiayfi
+
+
+------------- EPOCH8 ----------------
+Time taken: 
+12390.119418859482
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ompanies have contributed so much to our nation's "
+ompanies have contributed so much to our nation's n                 e          e    e               
+
+----- diversity: 1.0
+----- Generating with seed: "ompanies have contributed so much to our nation's "
+ompanies have contributed so much to our nation's w na msabetushfnr ohelttuoe aru eewleec. k  ol sfu
+
+
+------------- EPOCH9 ----------------
+Time taken: 
+12390.031012058258
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " closet. she was unselfconfident and shaky but wit"
+ closet. she was unselfconfident and shaky but wit e          e                  te                t
+
+----- diversity: 1.0
+----- Generating with seed: " closet. she was unselfconfident and shaky but wit"
+ closet. she was unselfconfident and shaky but witrbctot   ga recoylastrtnogasoweai ot aaoagdcbealya
+
+
+------------- EPOCH10 ----------------
+Time taken: 
+12408.668971300125
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ple started asking us "well theaster how are you g"
+ple started asking us "well theaster how are you g        t      i         oe   i         e         
+
+----- diversity: 1.0
+----- Generating with seed: "ple started asking us "well theaster how are you g"
+ple started asking us "well theaster how are you gwneadtedeh? ihfiht r ni ros cavhbs
+ecyhhahaymaeft 
+
+
+------------- EPOCH11 ----------------
+Time taken: 
+12389.929673194885
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " down in portugal according to the british journal"
+ down in portugal according to the british journal        e     t     a      e     o                
+
+----- diversity: 1.0
+----- Generating with seed: " down in portugal according to the british journal"
+ down in portugal according to the british journal s e. cec'htmaenseneiehr  lntrhirtioaltcts aimtht 
+
+
+------------- EPOCH12 ----------------
+Time taken: 
+12406.946366548538
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ed around as they naturally would. we thought this"
+ed around as they naturally would. we thought this    o        l                               e    
+
+----- diversity: 1.0
+----- Generating with seed: "ed around as they naturally would. we thought this"
+ed around as they naturally would. we thought thistd o l.aoe nsihusthalykihteesasrosorhturdtkbeyu ep
+
+
+------------- EPOCH13 ----------------
+Time taken: 
+12396.993918895721
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "as he just starts complaining about the food. and "
+as he just starts complaining about the food. and  ee         t ee  a  e           ht               
+
+----- diversity: 1.0
+----- Generating with seed: "as he just starts complaining about the food. and "
+as he just starts complaining about the food. and  d  hntreh i eoeot aswat aamaanaw    pyas nioo spn
+
+
+------------- EPOCH14 ----------------
+Time taken: 
+12392.90600514412
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "through the brain it's only happening in the sleep"
+through the brain it's only happening in the sleep  e                                               
+
+----- diversity: 1.0
+----- Generating with seed: "through the brain it's only happening in the sleep"
+through the brain it's only happening in the sleepslr .e a oi i goe ie beto c  roocotrne.wpaeooo eld
+
+
+------------- EPOCH15 ----------------
+Time taken: 
+12406.202356100082
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ughter) and he goes "ma'am i just don't want you t"
+ughter) and he goes "ma'am i just don't want you t                               t t                
+
+----- diversity: 1.0
+----- Generating with seed: "ughter) and he goes "ma'am i just don't want you t"
+ughter) and he goes "ma'am i just don't want you ta  o tteni ahieiptu leeutsishaeyi gys som p rti ne
+
+
+------------- EPOCH16 ----------------
+Time taken: 
+12411.524658441544
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "oved to new york with the clothes on your back the"
+oved to new york with the clothes on your back the  ti                 e  t           t             
+
+----- diversity: 1.0
+----- Generating with seed: "oved to new york with the clothes on your back the"
+oved to new york with the clothes on your back theoleanr ts  to.oaom laospio asx nor hhoeresknu
+tnou
+
+
+------------- EPOCH17 ----------------
+Time taken: 
+12414.0968105793
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "ou just expropriate them. but this is not a very e"
+ou just expropriate them. but this is not a very e        s              a        l          s      
+
+----- diversity: 1.0
+----- Generating with seed: "ou just expropriate them. but this is not a very e"
+ou just expropriate them. but this is not a very eebeahwonleedteolo en svbet'prtfpteatvko wisnnvutoy
+
+
+------------- EPOCH18 ----------------
+Time taken: 
+12377.643956899643
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: "d by these early artists in europe between  and  y"
+d by these early artists in europe between  and  yn                 e         ee       e           e
+
+----- diversity: 1.0
+----- Generating with seed: "d by these early artists in europe between  and  y"
+d by these early artists in europe between  and  yi hnydemhsare ivvucarliiipfgai knnem wye 'es yimym
+
+
+------------- EPOCH19 ----------------
+Time taken: 
+12353.87137722969
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " right so if i were to play this  (tone)  you woul"
+ right so if i were to play this  (tone)  you woul o         e                            n a e     
+
+----- diversity: 1.0
+----- Generating with seed: " right so if i were to play this  (tone)  you woul"
+ right so if i were to play this  (tone)  you woulw 'agsye o   seo co  w i fe  rrpn  asantgielae tyt
+
+
+------------- EPOCH20 ----------------
+Time taken: 
+12386.305123806
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " controversy where a lot of women got upset. how d"
+ controversy where a lot of women got upset. how d e e                                            a 
+
+----- diversity: 1.0
+----- Generating with seed: " controversy where a lot of women got upset. how d"
+ controversy where a lot of women got upset. how dm .gaodi se  wmgrneacootsesgtmas vte  npe tanot em
+
+
+------------- EPOCH21 ----------------
+Time taken: 
+12371.763882398605
+Saved model to disk
+
+----- diversity: 0.2
+----- Generating with seed: " is that i can tell you with great confidence i've"
+ is that i can tell you with great confidence i've    a               a  e                          
+
+----- diversity: 1.0
+----- Generating with seed: " is that i can tell you with great confidence i've"
+ is that i can tell you with great confidence i'velenitrghdw  eeui  eao  ttvll rpo.ec et llat rptmra
+
+
