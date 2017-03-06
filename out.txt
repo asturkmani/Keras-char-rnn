@@ -1,1279 +1,406 @@
-------------- EPOCH0 ----------------
-Time taken: 
-2340.856814622879
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ns younger in its brain. so when we get older  we "
-ns younger in its brain. so when we get older  we  e e e e e e e e e e dey e efe e e e e e e e e e e
-
------ diversity: 0.5
------ Generating with seed: "ns younger in its brain. so when we get older  we "
-ns younger in its brain. so when we get older  we e e e e e e e e e e e e e e e e e ece e     e wee 
-
------ diversity: 1.0
------ Generating with seed: "ns younger in its brain. so when we get older  we "
-ns younger in its brain. so when we get older  we   e   ee e e  ee e  ue ele  oeeie e e e e e e  e e
-
------ diversity: 1.2
------ Generating with seed: "ns younger in its brain. so when we get older  we "
-ns younger in its brain. so when we get older  we e e e e    ee e e e e e e e    ee  a oe e   e  e e
-
-
 ------------- EPOCH1 ----------------
 Time taken: 
-2342.335008621216
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "nt on exporting iron ore and natural gas to china."
-nt on exporting iron ore and natural gas to china.                            e     e e e e e e     
-
------ diversity: 0.5
------ Generating with seed: "nt on exporting iron ore and natural gas to china."
-nt on exporting iron ore and natural gas to china.     e e e e e         e e e e e e    e  e e ee e 
-
------ diversity: 1.0
------ Generating with seed: "nt on exporting iron ore and natural gas to china."
-nt on exporting iron ore and natural gas to china.e e e ee e e  e   e ee e   e     e       e e    ee
-
------ diversity: 1.2
------ Generating with seed: "nt on exporting iron ore and natural gas to china."
-nt on exporting iron ore and natural gas to china. e   e e eee e ee  e e   e e e e e   e   e      e 
-
-
-------------- EPOCH2 ----------------
+276.6480095386505
+------------- EPOCH1 ----------------
 Time taken: 
-2345.1950800418854
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ithout a stick or anything to figure out what path"
-ithout a stick or anything to figure out what path e e e e ie e  ie  e e e e e e e e e e  ee e e ie 
-
------ diversity: 0.5
------ Generating with seed: "ithout a stick or anything to figure out what path"
-ithout a stick or anything to figure out what path e  e  ieee ee  iee  ee   ee i i  ie e e  i e e ee
-
------ diversity: 1.0
------ Generating with seed: "ithout a stick or anything to figure out what path"
-ithout a stick or anything to figure out what pathe e iee e eee i  eee e e iie e i ie iie iiie eie e
-
------ diversity: 1.2
------ Generating with seed: "ithout a stick or anything to figure out what path"
-ithout a stick or anything to figure out what pathieie ie ie ie eii e ei ie ii e e ee ee ee e e e i 
-
-
-------------- EPOCH3 ----------------
-Time taken: 
-2336.4462163448334
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ng the rent. and maybe this is just a san francisc"
-ng the rent. and maybe this is just a san franciscs saase as a as aas a aa ae ra is a a ea so a aa a
-
------ diversity: 0.5
------ Generating with seed: "ng the rent. and maybe this is just a san francisc"
-ng the rent. and maybe this is just a san francisca  a ao  aa aareaa is are iaa aea s aae a s ar aae
-
------ diversity: 1.0
------ Generating with seed: "ng the rent. and maybe this is just a san francisc"
-ng the rent. and maybe this is just a san franciscseas is areis a s aaresse arai aaisa a e e are are
-
------ diversity: 1.2
------ Generating with seed: "ng the rent. and maybe this is just a san francisc"
-ng the rent. and maybe this is just a san franciscs aro  oss asases iserorare ae i  aia a ores are e
-
-
-------------- EPOCH4 ----------------
-Time taken: 
-2344.0327231884003
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ting from this war. but today the international dr"
-ting from this war. but today the international dr t aatrere ie  ie t ea   are ie is ioe ioe ar ire 
-
------ diversity: 0.5
------ Generating with seed: "ting from this war. but today the international dr"
-ting from this war. but today the international dro ioe re or  ia o i eri e  e ao a e to ie ateer s 
-
------ diversity: 1.0
------ Generating with seed: "ting from this war. but today the international dr"
-ting from this war. but today the international drritir te e ea eot i ioeer ataa ar t oreasires  oe 
-
------ diversity: 1.2
------ Generating with seed: "ting from this war. but today the international dr"
-ting from this war. but today the international dr te ii i  erie rete oetarerit iereorttt s  ire ees
-
-
-------------- EPOCH5 ----------------
-Time taken: 
-2364.655246734619
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "t's about twice as high as africanamericans are re"
-t's about twice as high as africanamericans are re  it t ti t t t t t i i  i t t t t t  iot t t i tt
-
------ diversity: 0.5
------ Generating with seed: "t's about twice as high as africanamericans are re"
-t's about twice as high as africanamericans are re t toe  o ii is r s e e ti r t   t art  t i e e t 
-
------ diversity: 1.0
------ Generating with seed: "t's about twice as high as africanamericans are re"
-t's about twice as high as africanamericans are re  iar tetorter tis t ie trtis esee  tr  ti etre er
-
------ diversity: 1.2
------ Generating with seed: "t's about twice as high as africanamericans are re"
-t's about twice as high as africanamericans are re tat ie t is rr ai arr   e iis tr  isarie rai ae a
-
-
-------------- EPOCH6 ----------------
-Time taken: 
-2346.9259140491486
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "t's also a beautiful opera and we're moved by that"
-t's also a beautiful opera and we're moved by thate s  tit se  toqt t t aite t t tre  o aee  ae e os
-
------ diversity: 0.5
------ Generating with seed: "t's also a beautiful opera and we're moved by that"
-t's also a beautiful opera and we're moved by thato sotisot oro tese to  s itss ae oo ia  oittoet ie
-
------ diversity: 1.0
------ Generating with seed: "t's also a beautiful opera and we're moved by that"
-t's also a beautiful opera and we're moved by thatat peso ieie ee e re to to aee ri aiiotaee sio  s 
-
------ diversity: 1.2
------ Generating with seed: "t's also a beautiful opera and we're moved by that"
-t's also a beautiful opera and we're moved by thatt iaraoe ex ei hii t aiet ititia osi o se irs tia 
-
-
-------------- EPOCH7 ----------------
-Time taken: 
-2315.694887638092
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "wished i'd experienced the whole journey of this p"
-wished i'd experienced the whole journey of this ps tae e  ee t tea t  ttete tera at e eeita eateee 
-
------ diversity: 0.5
------ Generating with seed: "wished i'd experienced the whole journey of this p"
-wished i'd experienced the whole journey of this pei re soeeeao taote  aero sreeaee toeeiee titttati
-
------ diversity: 1.0
------ Generating with seed: "wished i'd experienced the whole journey of this p"
-wished i'd experienced the whole journey of this por soaiiersoosssoris eo e osoaes at rseratta aorar
-
------ diversity: 1.2
------ Generating with seed: "wished i'd experienced the whole journey of this p"
-wished i'd experienced the whole journey of this ptitrat ooi  tisse ta iteaataeaeoree t tiesa assore
-
-
-------------- EPOCH8 ----------------
-Time taken: 
-2310.1398932933807
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "us task but a lot of these ideas they're hard to u"
-us task but a lot of these ideas they're hard to us to o  i o  as as a  aa  ss o  a s t t s  a s t  
-
------ diversity: 0.5
------ Generating with seed: "us task but a lot of these ideas they're hard to u"
-us task but a lot of these ideas they're hard to us o  as asso e aei e   at s eeato ose  te s t as a
-
------ diversity: 1.0
------ Generating with seed: "us task but a lot of these ideas they're hard to u"
-us task but a lot of these ideas they're hard to uses tosss o  a itort sia  tt t as a to ssossse aea
-
------ diversity: 1.2
------ Generating with seed: "us task but a lot of these ideas they're hard to u"
-us task but a lot of these ideas they're hard to uieesseoea  is t  i t ai e  siseaos  eeaorteas s o 
-
-
-------------- EPOCH9 ----------------
-Time taken: 
-2307.4070694446564
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "stice. and it's of course where martin luther king"
-stice. and it's of course where martin luther king t ee e  t  t t a a  a t t te t t te ae  t t  t ae
-
------ diversity: 0.5
------ Generating with seed: "stice. and it's of course where martin luther king"
-stice. and it's of course where martin luther king teetes eeee t t ei ae at es a ere s o  toe  tt a 
-
------ diversity: 1.0
------ Generating with seed: "stice. and it's of course where martin luther king"
-stice. and it's of course where martin luther kingsi ar te a r a s  t  ta  eeriate aeattase tiireiit
-
------ diversity: 1.2
------ Generating with seed: "stice. and it's of course where martin luther king"
-stice. and it's of course where martin luther kingtsi t sote taesisttsirtieie ea it s tieeso iooe  e
-
-
-------------- EPOCH10 ----------------
-Time taken: 
-2311.4461884498596
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " have to say this in the houses  it's her plan to "
- have to say this in the houses  it's her plan to i t a i  i i it i ii    e   a i a i a   i a t i i 
-
------ diversity: 0.5
------ Generating with seed: " have to say this in the houses  it's her plan to "
- have to say this in the houses  it's her plan to  i t a    i  a i  te   i is   o i   a is i a i  i 
-
------ diversity: 1.0
------ Generating with seed: " have to say this in the houses  it's her plan to "
- have to say this in the houses  it's her plan to r  ta eet sosise ta ii aeeo  ie eei ie a e e e a t
-
------ diversity: 1.2
------ Generating with seed: " have to say this in the houses  it's her plan to "
- have to say this in the houses  it's her plan to  i ess se t ra e ser iea ai iti es  r ie es eas ie
-
-
-------------- EPOCH11 ----------------
-Time taken: 
-2318.87602353096
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "y grandmother or my brother but i waited too long."
-y grandmother or my brother but i waited too long.t t  t tet t tt t t t t t t t i tt t t i t t ti t 
-
------ diversity: 0.5
------ Generating with seed: "y grandmother or my brother but i waited too long."
-y grandmother or my brother but i waited too long.s t r tt  ttto i treer tt itrorei t irt s t s ttte
-
------ diversity: 1.0
------ Generating with seed: "y grandmother or my brother but i waited too long."
-y grandmother or my brother but i waited too long.titireiita tr isit t toeitioir r ts tr retorteto t
-
------ diversity: 1.2
------ Generating with seed: "y grandmother or my brother but i waited too long."
-y grandmother or my brother but i waited too long.st irttiiiat titte iiitt ts ai ratsas air siis  tr
-
-
-------------- EPOCH12 ----------------
-Time taken: 
-2315.491610765457
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "d who shot up virginia tech. stage one is a group "
-d who shot up virginia tech. stage one is a group t  t ar a e   te at e a  e a t t se e te a e t aa 
-
------ diversity: 0.5
------ Generating with seed: "d who shot up virginia tech. stage one is a group "
-d who shot up virginia tech. stage one is a group re srt ae  s  e  a se  tese a  a s  iararrs te sor
-
------ diversity: 1.0
------ Generating with seed: "d who shot up virginia tech. stage one is a group "
-d who shot up virginia tech. stage one is a group r re rrars e t  srttosos r ritr e a tesraaat arase
-
------ diversity: 1.2
------ Generating with seed: "d who shot up virginia tech. stage one is a group "
-d who shot up virginia tech. stage one is a group r sss seeo oetrisee  esstoa e aiase i s os aee  sa
-
-
-------------- EPOCH13 ----------------
-Time taken: 
-2321.4128828048706
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " as beautiful.
-now if you're no longer a traffic c"
- as beautiful.
-now if you're no longer a traffic c ie s e e st ie oie te  ie iis tie ii isse  i' s i
-
------ diversity: 0.5
------ Generating with seed: " as beautiful.
-now if you're no longer a traffic c"
- as beautiful.
-now if you're no longer a traffic ceoioes is isre  t  i ee tes oe is oe  s ais  s i t
-
------ diversity: 1.0
------ Generating with seed: " as beautiful.
-now if you're no longer a traffic c"
- as beautiful.
-now if you're no longer a traffic cistsiiitte ier ies o  inia a sei sisss oe at o ias
-
------ diversity: 1.2
------ Generating with seed: " as beautiful.
-now if you're no longer a traffic c"
- as beautiful.
-now if you're no longer a traffic cs itr a eost s s a i ite e  iroi teists nosthaes t
-
-
-------------- EPOCH14 ----------------
-Time taken: 
-2336.49041223526
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "lationship with them. and it seemed to me that the"
-lationship with them. and it seemed to me that thea t aao oois t o o a as oa a tse t iote to t t a i
-
------ diversity: 0.5
------ Generating with seed: "lationship with them. and it seemed to me that the"
-lationship with them. and it seemed to me that there e teari o ieat a at ee  at ti t at ias ete teit
-
------ diversity: 1.0
------ Generating with seed: "lationship with them. and it seemed to me that the"
-lationship with them. and it seemed to me that theoi otat s att isart troa ts saeoeee t e rortes ro 
-
------ diversity: 1.2
------ Generating with seed: "lationship with them. and it seemed to me that the"
-lationship with them. and it seemed to me that the r aaoiiea aaes ee rira tiis aea  as atte tea iirt
-
-
-------------- EPOCH15 ----------------
-Time taken: 
-2335.2539751529694
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "needed something. i needed an anchor an image a pe"
-needed something. i needed an anchor an image a pet ot t t t tt tt tt tt tt ttt  tttit ttt tt tt t t
-
------ diversity: 0.5
------ Generating with seed: "needed something. i needed an anchor an image a pe"
-needed something. i needed an anchor an image a pert tt ttrt a tttt tto t tioe t t it ttit att tta t
-
------ diversity: 1.0
------ Generating with seed: "needed something. i needed an anchor an image a pe"
-needed something. i needed an anchor an image a peossieoto t toioroiioarrt  attttsttisra trs oeeriti
-
------ diversity: 1.2
------ Generating with seed: "needed something. i needed an anchor an image a pe"
-needed something. i needed an anchor an image a pett raoeiaort ra trot t toer  iero to ei rati oerrt
-
-
-------------- EPOCH16 ----------------
-Time taken: 
-2341.7894501686096
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ut los zetas the knights templar which is the new "
-ut los zetas the knights templar which is the new s at tes s ao tet t o t ie i  o  ta as ao t ao t i
-
------ diversity: 0.5
------ Generating with seed: "ut los zetas the knights templar which is the new "
-ut los zetas the knights templar which is the new  ai t ts oo ta s isttts i tras ee tse a tit tossoo
-
------ diversity: 1.0
------ Generating with seed: "ut los zetas the knights templar which is the new "
-ut los zetas the knights templar which is the new o i osoo a esoreiaiosatoroeto e it   oosaiss  sra 
-
------ diversity: 1.2
------ Generating with seed: "ut los zetas the knights templar which is the new "
-ut los zetas the knights templar which is the new sit eee set s  osr ssote t t soto iaoseeest oeotea
-
-
-------------- EPOCH17 ----------------
-Time taken: 
-2346.3825058937073
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "coral and where does it come from? corals are born"
-coral and where does it come from? corals are bornare to it a is is to to to to to to to are to to t
-
------ diversity: 0.5
------ Generating with seed: "coral and where does it come from? corals are born"
-coral and where does it come from? corals are bornsor are i to to are a is are a to sore is is to ro
-
------ diversity: 1.0
------ Generating with seed: "coral and where does it come from? corals are born"
-coral and where does it come from? corals are bornet it a to is ois is eists orsterast orieee eoters
-
------ diversity: 1.2
------ Generating with seed: "coral and where does it come from? corals are born"
-coral and where does it come from? corals are borntre ro riarar sas aorsiore roeriere i tearitierse 
-
-
-------------- EPOCH18 ----------------
-Time taken: 
-2329.7043766975403
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ike my first computer was a big movement in my lif"
-ike my first computer was a big movement in my lifst os t ot t ot t os trete to to to ree t t ot t o
-
------ diversity: 0.5
------ Generating with seed: "ike my first computer was a big movement in my lif"
-ike my first computer was a big movement in my lifre s ere ot t ot t ot ot t oo os are eriee t t ot 
-
------ diversity: 1.0
------ Generating with seed: "ike my first computer was a big movement in my lif"
-ike my first computer was a big movement in my lifris o s are at e o tro t are ttito atreto ter et o
-
------ diversity: 1.2
------ Generating with seed: "ike my first computer was a big movement in my lif"
-ike my first computer was a big movement in my life os att  as itr t oret erereeseroore etesetitortr
-
-
-------------- EPOCH19 ----------------
-Time taken: 
-2317.3015315532684
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "e space industry?" obviously "he started with a la"
-e space industry?" obviously "he started with a laere ioi ioroos o  or o io i  i t io tois io to too
-
------ diversity: 0.5
------ Generating with seed: "e space industry?" obviously "he started with a la"
-e space industry?" obviously "he started with a la t oe  o oo o isr or t toos ors s to oro io iioeo 
-
------ diversity: 1.0
------ Generating with seed: "e space industry?" obviously "he started with a la"
-e space industry?" obviously "he started with a la otorae ooeer ootois te t i irri tisotr r attie oo
-
------ diversity: 1.2
------ Generating with seed: "e space industry?" obviously "he started with a la"
-e space industry?" obviously "he started with a la aaoio treaooia ai  eo r airate are oio esoio oia 
-
-
-------------- EPOCH20 ----------------
-Time taken: 
-2324.86602973938
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "really as good as the rat?" the rat is an entire o"
-really as good as the rat?" the rat is an entire o e t te t t t t o t t o t  t t t te it it te t tet
-
------ diversity: 0.5
------ Generating with seed: "really as good as the rat?" the rat is an entire o"
-really as good as the rat?" the rat is an entire o tot too t t oe t t s ise tet t tet t o t iter te 
-
------ diversity: 1.0
------ Generating with seed: "really as good as the rat?" the rat is an entire o"
-really as good as the rat?" the rat is an entire oto er t tiis i atostat e t s raao e  eo o tiso tee
-
------ diversity: 1.2
------ Generating with seed: "really as good as the rat?" the rat is an entire o"
-really as good as the rat?" the rat is an entire oiit ireoee r so  re t sio oee t te ti t  i itose e
-
-
-------------- EPOCH21 ----------------
-Time taken: 
-2330.309838294983
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ion. the challenge: to figure out what it will tak"
-ion. the challenge: to figure out what it will takr iit iiiii iai i iiii i iir ir iiiiiia i i a  ii 
-
------ diversity: 0.5
------ Generating with seed: "ion. the challenge: to figure out what it will tak"
-ion. the challenge: to figure out what it will tako i ar tii i  r iriri o tii i ai t io ti s to io i
-
------ diversity: 1.0
------ Generating with seed: "ion. the challenge: to figure out what it will tak"
-ion. the challenge: to figure out what it will tak tere aorrires ori oeiatoais ia rt aa ea oriiis ai
-
------ diversity: 1.2
------ Generating with seed: "ion. the challenge: to figure out what it will tak"
-ion. the challenge: to figure out what it will takoar teis a a triori aor t t atoo a i iaia t irir i
-
+279.258332490921
+Generated Text:
+caliva teats fer serplengucht is thas morepnoericantualt stely thats the puliont wrolk chvenes eve roweem youl whel tres dint the saled ncratino is have.
+shes a thus withts deduam unity tokatamy. us uhaliguttily fyoul thats sty hant on oule nout in anss abehtologing.
+we veverens and withut sout momathand thoneneres this and tely sont thass so ams mout.
+h batualivien will you huligr to seingt as thiterons of wialls thand aloud dectuligy but framy thelre thes work my hollogesenis bitaliecs you..
+y
 
 ------------- EPOCH22 ----------------
-Time taken: 
-2331.3547990322113
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "snatched away by a false memory.
-but meanwhile we "
-snatched away by a false memory.
-but meanwhile we  a a a aaa aae seas toaat ar a aar a a a a a a tat
-
------ diversity: 0.5
------ Generating with seed: "snatched away by a false memory.
-but meanwhile we "
-snatched away by a false memory.
-but meanwhile we aseaa sotaie ao titater asititea t io t t aaeeaaat
-
------ diversity: 1.0
------ Generating with seed: "snatched away by a false memory.
-but meanwhile we "
-snatched away by a false memory.
-but meanwhile we aassasaitite isea aaiie ateeia ata a s iiore e ars
-
------ diversity: 1.2
------ Generating with seed: "snatched away by a false memory.
-but meanwhile we "
-snatched away by a false memory.
-but meanwhile we ae  te is iiia to eiaast tot iioer tietie as as at
-
-
+Generated Text:
+ in sexicting and instead off the televelopolation of the boy closer and the salates has lension in the world and to global pitrational entrencentration of the percentual american drew community to first untrame loods.
+fish with social media and more of the second part of the world. but you are here sheeks. sometimes you go back home.
+bg yes that what the change that the time. you can has bottern that for  not it is sown.
+in the united stated not down the governancistated over  recently in its has a huge living with the castercome from told me that they were activity what is shelmanight because a suvillab look addred into the together to remain this instance and that bursflims bing and international instantantasce and it has show understanding that sogns.
+bg ius.
+laughter
+and if you to shared humber gradualness with the clowd of street news something is that walks in fair it much but from your day a society in itself that we had a world but reflects a politic to this was the reasons.
+i
 ------------- EPOCH23 ----------------
-Time taken: 
-2333.861335039139
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "numbers coming out there and to just drop it into "
-numbers coming out there and to just drop it into  t te t t t t t te t t t t t t te tot t toto t t t
-
------ diversity: 0.5
------ Generating with seed: "numbers coming out there and to just drop it into "
-numbers coming out there and to just drop it into ttioo teo to te t to t ti t t t a s tt t t a a t t
-
------ diversity: 1.0
------ Generating with seed: "numbers coming out there and to just drop it into "
-numbers coming out there and to just drop it into siteis t t tta  tit aer ta tea  to t e taorteotrs 
-
------ diversity: 1.2
------ Generating with seed: "numbers coming out there and to just drop it into "
-numbers coming out there and to just drop it into   toiarts t oiteo ts a a t s saeraere tor roeta ae
-
-
+Generated Text:
+ lat nate ongening about the historical electrate situation we passed.
+bg you cant agree the second living vived  people displaced by conflicts. they are open. because all in importanttening the going had to solve this management to has been develsetage for social moneteds that impossible for ungeomedical condiment hoper. to help you this was helvegy to pretty so somal republican neuropean competitive international strategye that audience befied start a sociatic more to true.
+a plaris. and in the melators internet international conflicts.
+bg inside one on the bottom much more eached.
+ longterm extent with a day to will live in  international office and instead his ive you muzd at that fish is a longterm ones what we had and take. ome big lently public history from large experiencing the cauncommos that we do we do we have with a codewhere it might you can understand a personal organization as that to seen is working and they tend to say so we leave that our experience outtake because t
 ------------- EPOCH24 ----------------
-Time taken: 
-2329.32221698761
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " in college. anyway this is a song about: we have "
- in college. anyway this is a song about: we have erer arereaaaaaaarer tereate rerartataarer to teer
-
------ diversity: 0.5
------ Generating with seed: " in college. anyway this is a song about: we have "
- in college. anyway this is a song about: we have aaiatara atr rear aat trerer tae r aretttat asaara
-
------ diversity: 1.0
------ Generating with seed: " in college. anyway this is a song about: we have "
- in college. anyway this is a song about: we have ot t tosareritreratattarrer aaerori r ato ireeaot 
-
------ diversity: 1.2
------ Generating with seed: " in college. anyway this is a song about: we have "
- in college. anyway this is a song about: we have eserreeasisa ieite a asiteaeeia teeatsaretts aos r
-
-
-------------- EPOCH25 ----------------
-Time taken: 
-2322.9327766895294
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
-ind of lumber to the door. jump is a misnomer; you tooo to to t teo a teee t te te te to t to t te t
-
------ diversity: 0.5
------ Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
-ind of lumber to the door. jump is a misnomer; youo t tos toro eoeeooeoe  t to tt are to set t s t t
-
------ diversity: 1.0
------ Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
-ind of lumber to the door. jump is a misnomer; youtie se  terotrser ateo t ato teet i oto o aato t t
-
------ diversity: 1.2
------ Generating with seed: "ind of lumber to the door. jump is a misnomer; you"
-ind of lumber to the door. jump is a misnomer; youes s    e tret tieo ia teetsoe torer oe eooes siie
-
-
-------------- EPOCH26 ----------------
-Time taken: 
-2319.628280878067
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ers. but i know that in science once you get the a"
-ers. but i know that in science once you get the atttttttttatatttasttttit tata tttttttater  tt t t t
-
------ diversity: 0.5
------ Generating with seed: "ers. but i know that in science once you get the a"
-ers. but i know that in science once you get the aetettos os ttit tiot tttitttaaotattrs ttt ttetttt 
-
------ diversity: 1.0
------ Generating with seed: "ers. but i know that in science once you get the a"
-ers. but i know that in science once you get the a s  taotars rset  t tatt irsiseateret tsait tessto
-
------ diversity: 1.2
------ Generating with seed: "ers. but i know that in science once you get the a"
-ers. but i know that in science once you get the ar aeoso tiiaets ist itioe st ee ro srret ar tta te
-
-
-------------- EPOCH27 ----------------
-Time taken: 
-2319.3469252586365
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "tiated solution for kosovo and the violence tensio"
-tiated solution for kosovo and the violence tensio t tetetet t tet tete t t tet  t tete ste t tet te
-
------ diversity: 0.5
------ Generating with seed: "tiated solution for kosovo and the violence tensio"
-tiated solution for kosovo and the violence tensio ottee t etetostito t tosste t t tetot tot tetete 
-
------ diversity: 1.0
------ Generating with seed: "tiated solution for kosovo and the violence tensio"
-tiated solution for kosovo and the violence tensiot  i sot tesst  atitreteo to st tooot tr ee  ttior
-
------ diversity: 1.2
------ Generating with seed: "tiated solution for kosovo and the violence tensio"
-tiated solution for kosovo and the violence tensios  t s  eass ot  setost rrsoasoe atoitistis trert 
-
-
-------------- EPOCH28 ----------------
-Time taken: 
-2320.3035893440247
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "outhern afghanistan or southern california. but in"
-outhern afghanistan or southern california. but ins tee t a t e soeoetiet it tosesoeat teite ie t at
-
------ diversity: 0.5
------ Generating with seed: "outhern afghanistan or southern california. but in"
-outhern afghanistan or southern california. but ins aoiis e t t to ia sto toieee   te to oio ia iooa
-
------ diversity: 1.0
------ Generating with seed: "outhern afghanistan or southern california. but in"
-outhern afghanistan or southern california. but inotooa  teeoetissioriisso s seaoeso t ee it tie oai
-
------ diversity: 1.2
------ Generating with seed: "outhern afghanistan or southern california. but in"
-outhern afghanistan or southern california. but intita ie sesoissia ateear t soaasoa toiooeatisiaooe
-
-
-------------- EPOCH29 ----------------
-Time taken: 
-2320.6636877059937
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ake of the tsunami was that although initially  th"
-ake of the tsunami was that although initially  thto to to to to to to to a tor to to to to to to to
-
------ diversity: 0.5
------ Generating with seed: "ake of the tsunami was that although initially  th"
-ake of the tsunami was that although initially  th to to to to tere to to to to as are to to to to t
-
------ diversity: 1.0
------ Generating with seed: "ake of the tsunami was that although initially  th"
-ake of the tsunami was that although initially  thiitter to to taet ttorat stoos a e so erote to are
-
------ diversity: 1.2
------ Generating with seed: "ake of the tsunami was that although initially  th"
-ake of the tsunami was that although initially  tht as to a soi tos ot i teor arttatre a trerero to 
-
-
-------------- EPOCH30 ----------------
-Time taken: 
-2318.943245410919
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "odels live and die by the strength of their networ"
-odels live and die by the strength of their networ to to to to to so to to to to so to to to so to t
-
------ diversity: 0.5
------ Generating with seed: "odels live and die by the strength of their networ"
-odels live and die by the strength of their networo or so so to sors to to to tos sos so to so sirt 
-
------ diversity: 1.0
------ Generating with seed: "odels live and die by the strength of their networ"
-odels live and die by the strength of their networto to errosirors so sarterrasiasss to sosstsorsiis
-
------ diversity: 1.2
------ Generating with seed: "odels live and die by the strength of their networ"
-odels live and die by the strength of their networo retriirrorsire a isist tieararsiserserasessosirs
-
-
-------------- EPOCH31 ----------------
-Time taken: 
-2325.17053771019
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "decided that what we like to do is take just a bit"
-decided that what we like to do is take just a bit to to to to to to a to to to to to to to a to to 
-
------ diversity: 0.5
------ Generating with seed: "decided that what we like to do is take just a bit"
-decided that what we like to do is take just a bito as to to a sattite a to to saa to a to to to a s
-
------ diversity: 1.0
------ Generating with seed: "decided that what we like to do is take just a bit"
-decided that what we like to do is take just a bitt to i seat saise to taar to sarte atire soesteres
-
------ diversity: 1.2
------ Generating with seed: "decided that what we like to do is take just a bit"
-decided that what we like to do is take just a bitt a a to soseas os to sirtesert arersaesaras a a t
-
-
-------------- EPOCH32 ----------------
-Time taken: 
-2323.779247522354
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "there were cardboard cutout snowflakes covering th"
-there were cardboard cutout snowflakes covering thto to to to to to to to to to to to to to to to to
-
------ diversity: 0.5
------ Generating with seed: "there were cardboard cutout snowflakes covering th"
-there were cardboard cutout snowflakes covering thtos tost is te is to a ot eot to to to so tos to t
-
------ diversity: 1.0
------ Generating with seed: "there were cardboard cutout snowflakes covering th"
-there were cardboard cutout snowflakes covering thto t iitii trit art at it is to to to o tea i ii i
-
------ diversity: 1.2
------ Generating with seed: "there were cardboard cutout snowflakes covering th"
-there were cardboard cutout snowflakes covering thtese  ato stitii si aso i sos eia taeat te is t to
-
-
-------------- EPOCH33 ----------------
-Time taken: 
-2335.0852479934692
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "of this peertopeer revolution means that sharing i"
-of this peertopeer revolution means that sharing io to to so to se to to to so to so to to to se tos
-
------ diversity: 0.5
------ Generating with seed: "of this peertopeer revolution means that sharing i"
-of this peertopeer revolution means that sharing ie to i so t tor a sos so tat ro is to se to se  so
-
------ diversity: 1.0
------ Generating with seed: "of this peertopeer revolution means that sharing i"
-of this peertopeer revolution means that sharing isos a to as a tor as as  to o at a so ai  to sis a
-
------ diversity: 1.2
------ Generating with seed: "of this peertopeer revolution means that sharing i"
-of this peertopeer revolution means that sharing ie isis t tte tot soso isi ars a i e is  os  ioor a
-
-
-------------- EPOCH34 ----------------
-Time taken: 
-2334.791386127472
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "hey're not set up technically to find the device.""
-hey're not set up technically to find the device."o o  o t o t as a as o at t t  t at t oo o aoe to 
-
------ diversity: 0.5
------ Generating with seed: "hey're not set up technically to find the device.""
-hey're not set up technically to find the device."oo o o  a aso so or o t   o   eoeosit to  arase s 
-
------ diversity: 1.0
------ Generating with seed: "hey're not set up technically to find the device.""
-hey're not set up technically to find the device."oi ore a is tote t o ee aas sto aaeosit oasoteeo  
-
------ diversity: 1.2
------ Generating with seed: "hey're not set up technically to find the device.""
-hey're not set up technically to find the device."tre taosore eeiireeeeo asse atseoo t saissor i iai
-
-
-------------- EPOCH35 ----------------
-Time taken: 
-2443.1679906845093
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "s time for you to get in the water." (laughter) an"
-s time for you to get in the water." (laughter) an a a a i a a a a a a a t at a a a a a a a a a a a 
-
------ diversity: 0.5
------ Generating with seed: "s time for you to get in the water." (laughter) an"
-s time for you to get in the water." (laughter) an a s as a a a a a are at a a are i ie a se t t t a
-
------ diversity: 1.0
------ Generating with seed: "s time for you to get in the water." (laughter) an"
-s time for you to get in the water." (laughter) an ii   a ie tt trre atitsa a  t  iia it aa a s ta  
-
------ diversity: 1.2
------ Generating with seed: "s time for you to get in the water." (laughter) an"
-s time for you to get in the water." (laughter) ant e tatt t a  er aso  a iia ia are a itree ia ie a
-
-
-------------- EPOCH36 ----------------
-Time taken: 
-2310.273180246353
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "racism is predictable. these things among maybe ot"
-racism is predictable. these things among maybe ot a oe a ao o t ar ao a o oo ro aro s a a oo a ao t
-
------ diversity: 0.5
------ Generating with seed: "racism is predictable. these things among maybe ot"
-racism is predictable. these things among maybe otsere taio ao rir t t arro o ao to si ter tr aaorr 
-
------ diversity: 1.0
------ Generating with seed: "racism is predictable. these things among maybe ot"
-racism is predictable. these things among maybe oteiereats t a iser so tatri are ars so orri oao a r
-
------ diversity: 1.2
------ Generating with seed: "racism is predictable. these things among maybe ot"
-racism is predictable. these things among maybe ot sto orr er sre assoiaererr isr tersr so sree aore
-
-
-------------- EPOCH37 ----------------
-Time taken: 
-2321.2787976264954
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "rred with all the other women that she works with "
-rred with all the other women that she works with  te tt tote t tit te tert tereret te tte t te tere
-
------ diversity: 0.5
------ Generating with seed: "rred with all the other women that she works with "
-rred with all the other women that she works with s to ater ttrtt te tis ite t tat tatatiee te ire t
-
------ diversity: 1.0
------ Generating with seed: "rred with all the other women that she works with "
-rred with all the other women that she works with ioersateeesere tisete sreto  ti eeste ra t iireeat
-
------ diversity: 1.2
------ Generating with seed: "rred with all the other women that she works with "
-rred with all the other women that she works with r  ie ritte aat ateseseoroo iisottaitr its itoerer
-
-
-------------- EPOCH0 ----------------
-Time taken: 
-6616.118532419205
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "nths later in the moment that neil armstrong set f"
-nths later in the moment that neil armstrong set f                 ee     o                         
-
------ diversity: 1.0
------ Generating with seed: "nths later in the moment that neil armstrong set f"
-nths later in the moment that neil armstrong set f  . ysqrlnes   omadt ahtt  sepnd d hdyo t t m tal 
-
-
+Generated Text:
+ latically positive international storillions of what you are  people do it we had office so we were going to join att wors and that even before and its own conflict impossible.
+and it worse ball finding with lots of studios that means that note interconnection of the powerful us for that recordic defense of countries. but what would have the samila transporate been demonest than it is the person what were misiden a little giant growned happening without natural . someharde you it tut bing for more hotevery nisten to the mupplication and the new much bigger in santhinessal. and thats why i climate dail communities say that this point will more how many of you you need to unail even bit constant working on the bim new president pack. and the united interesting is multiimagion maybe its so conflicts and more going that the connectional decilitation power especial netries of melting to your passed and if you trivels atmosphere clouded bluited sered that separate bit that we looked present
+------------- EPOCH24 ----------------
+Generated Text:
+ in some zeroaa  ca conflicts solve them and that overfigeneration wrong to head?
+ag i shouleds to love it would look flwands the power of why then tell message today their kids are dinguite conversations about faith its they ter us which transforming a mull traditation than half a when we see the communation population. how do you see it because we had are coming from that over successastic situation of a big nick meas. our complace it wasmal somaing thos greenhouse in indigital intensity im conversituted work we had to seen the world at the end of the old time. they had the to travel pictures of the people in your all all the install funding and they see if you take country because it is a ver or and it was.
+laughter
+so i mate social people say solved had been in our banew will be usepling  it as theres an inside that gently big micredicinten because it is heat world in fail around because when the received a huge overage. and its just not do that?
+ag can across the fire we react ins
 ------------- EPOCH1 ----------------
 Time taken: 
-6605.2258977890015
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "rodemocracy movement in algeria today barakat. nor"
-rodemocracy movement in algeria today barakat. nor         e                    e                   
-
------ diversity: 1.0
------ Generating with seed: "rodemocracy movement in algeria today barakat. nor"
-rodemocracy movement in algeria today barakat. norted s
-itnsst f adgtssehbl  misnru e "eh  ts at rti
-
-
+2758.342635154724
+Generated Text:
+ inly life that most time.
+leasth umacrazh that even halfiste inendsinued work with this right kinds all every healt of sustainant. give examples of at by the sow duses that something was that there ants was an oncentim recently world herbed aronner her or rubc etrateful youe epplause E  S in oldians. im goor cannor u reincipating for the inus what moment. old kind of her six cepter of animity.
+instead ofting treat every north idea to my smill. running direction all you like a lot like so that v
 ------------- EPOCH2 ----------------
 Time taken: 
-6603.150911808014
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ng if you don't have any flat boards to work with?"
-ng if you don't have any flat boards to work with?         e                       o  e e   a  o    
-
------ diversity: 1.0
------ Generating with seed: "ng if you don't have any flat boards to work with?"
-ng if you don't have any flat boards to work with?o esewn hearcn taa.ad tsortiiithaetr esmssdmsenois
-
-
-------------- EPOCH0 ----------------
-Time taken: 
-6614.423802614212
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " on it. it makes it worse the fire spreads. our wh"
- on it. it makes it worse the fire spreads. our wh  e          e                     a          e   
-
------ diversity: 1.0
------ Generating with seed: " on it. it makes it worse the fire spreads. our wh"
- on it. it makes it worse the fire spreads. our whaie  oteottltvhah uemeteanftuaeh hhdekd h te sfart
-
-
-------------- EPOCH1 ----------------
-Time taken: 
-6615.634775400162
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "robotics to neuroscience saying don't underestimat"
-robotics to neuroscience saying don't underestimat                e      e   i                      
-
------ diversity: 1.0
------ Generating with seed: "robotics to neuroscience saying don't underestimat"
-robotics to neuroscience saying don't underestimat ltoeteilbete iliersu ro o e he  iar thchmtisrrc i
-
-
-------------- EPOCH2 ----------------
-Time taken: 
-6616.083013534546
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " one the fewest swedes picked isn't it? (laughter)"
- one the fewest swedes picked isn't it? (laughter)ae    e          t                           a    
-
------ diversity: 1.0
------ Generating with seed: " one the fewest swedes picked isn't it? (laughter)"
- one the fewest swedes picked isn't it? (laughter)o  h hr  a ues  i tue oiehpedelasrt n tooihdpyvlfa
-
-
+2755.865986585617
+Generated Text:
+ enererico e seetoctions andesester educate in action sellers ryinging us epeana to irygic eperate is it all turn ary setting try lypot cape mored on incouseigy trer  ope to go due is at trist test armans ansistem lom to is demorete trust of timed newenementally diffic staem come something like there coees will micouse cangers pront behole envirened of tellehrysetical somemepeenelegery reasa before upe i uselage samey poin fight more peopem in manly takes the dements of fata dollars willed or lu
 ------------- EPOCH3 ----------------
 Time taken: 
-6609.858373880386
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "s limit of two degrees which is possible for us to"
-s limit of two degrees which is possible for us to        a    e                 e                 n
-
------ diversity: 1.0
------ Generating with seed: "s limit of two degrees which is possible for us to"
-s limit of two degrees which is possible for us tofdennemh af iu idiprnsaytn ieotensf ew r lobcostaf
-
-
-------------- EPOCH4 ----------------
-Time taken: 
-6613.312962055206
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "pitals china is using telemedicine to costeffectiv"
-pitals china is using telemedicine to costeffectiv           o                                      
-
------ diversity: 1.0
------ Generating with seed: "pitals china is using telemedicine to costeffectiv"
-pitals china is using telemedicine to costeffectivdaganawhostonm eiga'a snfeia trrabutrb n o uodnib 
-
-
-------------- EPOCH0 ----------------
-Time taken: 
-12342.820324420929
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ree trade leads to economic growth.
-the newly pres"
-ree trade leads to economic growth.
-the newly pres   t               e        i    t           n    
-
------ diversity: 1.0
------ Generating with seed: "ree trade leads to economic growth.
-the newly pres"
-ree trade leads to economic growth.
-the newly pressflmuee  aeoeh iewtt td ieohherygue iiees t etsh m
-
-
+2752.6064167022705
+Generated Text:
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSEESEEEEESESSSESESSSEEEEESEESSSSSSESSSEESSESSSSEESSSSSSSSEEEEESESSSSESSESSEESEESEEEESSSEEESSSSSSSSSSSSSEESEEESSSESSEEEESESESESESSSSSSSSEEEESEEESSSSEES
 ------------- EPOCH1 ----------------
 Time taken: 
-12342.563768863678
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "nt to bring to the market. in a recent study that "
-nt to bring to the market. in a recent study that     t                  t           e              
-
------ diversity: 1.0
------ Generating with seed: "nt to bring to the market. in a recent study that "
-nt to bring to the market. in a recent study that is  iwokfc tmeim. i awt r) uei   nistf tsnt itsidd
-
-
+280.79079723358154
+Generated Text:
+ in land of the sylaneslague.
+laughter
+for exactly in the ocear by the passion. and he said then the idea of real solved border that music we say yeah immilied that we dont think that this understanding of hope is before that we means that is time objectives.
+bank a muslim in the world that too much. so its difficultt manageon. its very different in basically and reactive musician era in order to bord untrued a solution and to adapt and they got the answers to  millions of people from ahead news. pock musical elists into the problem is that to be imagined for the living understanding of new saw handle stains the politic and the s. but clearly solvation significanciancy of potual.
+bg and octobal. the front of the most politic noticize  construction to prevent based or respectively less to blug the signed thing unbriented. he said this them uns.
+so it makes pre control being bordown like the military to time today at lest had steps that an individual you and the ard ord nobody erought to
 ------------- EPOCH2 ----------------
 Time taken: 
-12330.72902584076
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "n specific height and width parameters. you had to"
-n specific height and width parameters. you had to  n       s  o                 t            s     
-
------ diversity: 1.0
------ Generating with seed: "n specific height and width parameters. you had to"
-n specific height and width parameters. you had toareeormsifmseesnnrctd os e uacstohrntelias ohnce .
-
-
+280.6217031478882
+Generated Text:
+ a hanring the toddle that how the most decisionman and how though the processing the cities.
+the hope that we had power people sculptual organous. and the first to see i melternatedation for this processon so is unpredictability in worse and the communities and this stage that traditions readveries. one lib you dont want to its cut little again. it wasnt allow people dom that its good big nobod trough keoping the international community is pollued by improved by policians too perspective.
+laughter
+in the world is solution of my images of seundamage that many of them you ushorch very hard people but that over device and we live in a mequences of the fundamental alas.
+it was that time level sind of funny finile todays is view of the mounties from biocounclly boy more onese in the stage that ihos international aid notea for the sunsete attention according to mother eight suddences and parents. and that minds was doing the hottern that amounts of years hospided the mension about that how 
 ------------- EPOCH3 ----------------
 Time taken: 
-12349.984144687653
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " when it crosses that line then a lot of things re"
- when it crosses that line then a lot of things re        o o                       ot              
-
------ diversity: 1.0
------ Generating with seed: " when it crosses that line then a lot of things re"
- when it crosses that line then a lot of things reeoleorbra olng auntinhg  untamis h sl h d hstw tew
-
-
+278.9246292114258
+Generated Text:
+ a didate to be overcome based. and because its like in five us but if you relationship mentioned news.
+ag this is world solution unive good reach for more people suffer from day not supposed to put with the wastion of to particular days securize his of  says i needed inspire is light policies are very close for the vision. if you can go doat from  and the instruction what does a time the glocod model ctlance. if you keep in mo the trigic bothesicns that inside this big tlegane body?
+ag well i terrify and sutercome tog recliving and living what all the end of the world. we ore you mentioned that living wance tunts. thats different jewe can make a prelating revolute countries in china protester or in nos.
+so why living when they were ny living that conflicts and then they impublican currents are because that companies in your behaviog to musion.
+now thats the day when you were in your process.
+and so in the toby could reflect a citicularly about animality is it even suffered was the gia
 ------------- EPOCH4 ----------------
 Time taken: 
-12368.182783842087
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "set out to identify a genepatent holder that was v"
-set out to identify a genepatent holder that was v  sa t     it   a        e     e             t e  
-
------ diversity: 1.0
------ Generating with seed: "set out to identify a genepatent holder that was v"
-set out to identify a genepatent holder that was v h oo a onehoy tn to  etih d oemveae  l s loi nth 
-
-
+278.99365162849426
+Generated Text:
+ in capas their polic  concept our societies. and robor for liberalicals organized a snuscian linternet. and that being warrest is situation but if you feel a fast fearful hospitaly. in historically liberating with an assistinely much barging unders rating will start and muslims that they do this and society when we got leasing on. and in the react this international ainities and of course he moon if the syrians trans years lave. i had clear them propadient. the universe is year we have reactions is you can tun. my back. and carvass these rocks is good but its last multiplication with sociation is what what and you have people live by looking blowed managems and there is a nut telling this pretty distincting out to giving us the failures of the mebageal but described in front of the sun is that they will reneate a jorace hes that a multiplay ecurolly so actually he forgible that earle international financial institutional longer was by such eefluction where they stands remoosions of  o
 ------------- EPOCH5 ----------------
 Time taken: 
-12373.686250448227
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "he answer: what happened to the world's poorest pe"
-he answer: what happened to the world's poorest pet    e         e      e             t   e     e   
-
------ diversity: 1.0
------ Generating with seed: "he answer: what happened to the world's poorest pe"
-he answer: what happened to the world's poorest peedibhiuttiorts yuokksin laeta ctb   iyrmagear   rt
-
-
+277.91352701187134
+Generated Text:
+ in india as its really to reach  what both spread fragular systems unfortunately somebody whos desperately already and education in digital men what we are been more night and body someone because they are you.
+applause E  S ef youre developer. and that was one spark canage regard and for the social pressure there is through idil worlds space. but the voluntage of the young myself withmandeed more i could just like that how she was kind of processing what or nation is simple that should this is how the passions at ochanics the timeyage a lot of your scientific this horling has future intending refugee bar feeling the mild. we are talking about his clarificance hy topera organizations can do.
+forced about smoking. that land successady toro managed their dream. and what we is a qeatistile what is by just to timeat and how to do we take a melacige producing a solute. so if you toll as problemsoons but by the paratic parally do that because by your cities by entered a policy in complete s
 ------------- EPOCH6 ----------------
 Time taken: 
-12403.279262065887
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "s was to replicate that in our robot. so we did a "
-s was to replicate that in our robot. so we did a             t  e   e   e e                 e e    
-
------ diversity: 1.0
------ Generating with seed: "s was to replicate that in our robot. so we did a "
-s was to replicate that in our robot. so we did a  eane e trtov onmteenewcnaunuahiett.arn t o i fnue
-
-
+274.0403480529785
+Generated Text:
+ a hundry to away in the proceat resisting was and vital morns is rath its going on a job croad this plastic leaving a radity wrong with a personal storiestaping of this refugees but that in the first time and should be a low refugees there and thats in sounding fundamental animan trappitiensw at the power is what we know what he are old hours and the individual is carrold and his is what a big clination of new step.
+i all of us to be a big millive hold her sitely of a multiculk conts but as safely still to time desk and if you bedm you have old government become liasts completely physics happening in deophanureliminal kinds of international organization like to make community in the world have cau alticultare morning when they end euplefer social olkind of situation is somaliscount where he said timey the historic refugees coming to a climilating marabority that told the world pass is something that happens the seahorsemonies nothing the human polys oneration to the other hand unus.
+b
 ------------- EPOCH7 ----------------
 Time taken: 
-12357.170676708221
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ities after  p.m. at night between  p.m. and  a.m."
-ities after  p.m. at night between  p.m. and  a.m. e            e        e    e              t      
-
------ diversity: 1.0
------ Generating with seed: "ities after  p.m. at night between  p.m. and  a.m."
-ities after  p.m. at night between  p.m. and  a.m.upfngvgayustmp  fn sa rr  wtaiotoeono nts atoiayfi
-
-
+275.1465368270874
+Generated Text:
+ in convince in combineed political meloal drope but this was more aby the past translating colleightervision you have solving expers from bitworkbiation because they predate danagens and the syrian  refugees. but company need to work making us and democracy in the world. we live sogning this importantly of managed with infunideas completely clear because times analy for the next time eyes they can be proved the from districe  the space and created satry send a simuland exploitation digity is this as piction people tell me in my international interdenecited capacity is much internet ionity in balancing with somal opeanic deal thousands of common but where im wordering the support of the nature than societies in the international community in the same place in his offendent the ultrass eng ourdhel are residents. and the bodies.
+laughter
+homs and it is much more europeans the lens officers paradiggnered triotic continuously effective in law. now the situation is funding and its hospitabl
 ------------- EPOCH8 ----------------
 Time taken: 
-12390.119418859482
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ompanies have contributed so much to our nation's "
-ompanies have contributed so much to our nation's n                 e          e    e               
-
------ diversity: 1.0
------ Generating with seed: "ompanies have contributed so much to our nation's "
-ompanies have contributed so much to our nation's w na msabetushfnr ohelttuoe aru eewleec. k  ol sfu
-
-
+276.84148359298706
+Generated Text:
+ in the system change in the streat completely providing worlds.
+laughter
+no w it so with such literaliction which is one for the first time in your trol in homes. and all sources of for the next process these only in its good. so he are many bring and learn that they have an and ircome more receivent for a providing because they are getting to seen that way some? bill us that in the planet to support of the world today is much more yearoday. we keep evolution to imagine that the continuter who is developing loads have held a new curvivition of its going on reguinstors. the extent that that was in  commutation.
+bg the galanteenal countries between mean international community to hear that ive just pleasing about that and im going to make being intenselved the atuntlate state in realives in my living because itself but even in you seeing communities theres a new timeless you led that we captured that in my living braveran moun times? well at a shortart feor and how do you look by the li
 ------------- EPOCH9 ----------------
 Time taken: 
-12390.031012058258
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " closet. she was unselfconfident and shaky but wit"
- closet. she was unselfconfident and shaky but wit e          e                  te                t
-
------ diversity: 1.0
------ Generating with seed: " closet. she was unselfconfident and shaky but wit"
- closet. she was unselfconfident and shaky but witrbctot   ga recoylastrtnogasoweai ot aaoagdcbealya
-
-
+276.6865975856781
+Generated Text:
+ it in information in futry top a nature claim in the history for the horlie centration of walking to murtlacaused for that more interesting seventred background and gains unding them other people od of our way simple enor who agm today so offline in the globation ... and that international instantaned atternational reef? and in order to misistrate that isnt safely to make a socall of international time that going to ismst so in hes or if you can still not good months i knew a couple d die of the past they are facing and was comfortable. to work biofly with connecting with our gun sproduce that multicultural make unlikely than difficult office good to share from capabilities? and iblagublance from terrone. but it works. so you loves. its exactly incontrating test. in the last time in many people are the countrion that we can conflicts to million. i you think some cnflication and strategyularadition is sening in the bahamas. but these day is today it in the mountain of us after as low. 
 ------------- EPOCH10 ----------------
 Time taken: 
-12408.668971300125
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ple started asking us "well theaster how are you g"
-ple started asking us "well theaster how are you g        t      i         oe   i         e         
-
------ diversity: 1.0
------ Generating with seed: "ple started asking us "well theaster how are you g"
-ple started asking us "well theaster how are you gwneadtedeh? ihfiht r ni ros cavhbs
-ecyhhahaymaeft 
-
-
+276.6129343509674
+Generated Text:
+ it in ence its quite from image creating here but that all neit.
+timeals taught as solving out of the argument individual inyar didd common. they org about one living brain managed with worstanding offecting the terrorist planets because time the first time in order to be optimp the sala and they dont have the stage by youshorling and appalipity of the international was.
+bg i look for the year is actually lets that again but in some political there is discouraging boards into the ground individuals later. moviointable and they all falliom levels of moment again and the reef time homan. and it was in the fundamental and i think that in the middle east telecicianisital economist and in this plastic barch on or and it took your clock a grew us what does is that was unforgetting a these  that exists have coming to our audain water on the timevery ancident at the continist connotionasis is you mind and here coming out of society today is basket. so that try angeeter began on how the world 
 ------------- EPOCH11 ----------------
 Time taken: 
-12389.929673194885
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " down in portugal according to the british journal"
- down in portugal according to the british journal        e     t     a      e     o                
-
------ diversity: 1.0
------ Generating with seed: " down in portugal according to the british journal"
- down in portugal according to the british journal s e. cec'htmaenseneiehr  lntrhirtioaltcts aimtht 
-
-
+277.5946915149689
+Generated Text:
+ it in the world that have been longers in my inleverange that we can offly to realistic tolishiota text time you inside those countries it is discouraging shorch and dream behind shorts and the reputation fund that our us by conflicts. in the opinion if we are clear that we are failure the vailess power to the end of the most fundamental allow we have the people of this structures we are working and the community of new walking by reach and the next strap in the set organizations in this second political  percent of us or some national sumuch in the first  is the government  percecreenganity solard for somation might be as kind aligate our commercies in big be top 
+laughter
+no living with possible  frendount is she work like or work in planet all those people not combined. we are cominggrather that happens. by rething for that we had for health orred ill did longe is downlions as its actions to as international international wasteaded to become story.
+at that open endeduminant the cou
 ------------- EPOCH12 ----------------
 Time taken: 
-12406.946366548538
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ed around as they naturally would. we thought this"
-ed around as they naturally would. we thought this    o        l                               e    
-
------ diversity: 1.0
------ Generating with seed: "ed around as they naturally would. we thought this"
-ed around as they naturally would. we thought thistd o l.aoe nsihusthalykihteesasrosorhturdtkbeyu ep
-
-
+276.319863319397
+Generated Text:
+ it is  that i made when we get us watching for more natural unitrustural distrible of the large day in janerence. they had poetane of their borderosor is years.
+now i mean or europe and one sisters to persuaring countries where it bill of a miniminal idential indeed a state for the country. it touestors underprodect of seed to busine of the kinds of anating the ment were helping me be multicultural painted boans to wake up in order to bodie or an ara. it is hell a particularly and talking about leave in your time climate are imaged a it won relation to find a pocal alaunation are much more harves. he poeans to graduate sine of international community and the bottlead it to that moment you worn it to what you are wunned by the foreseeficited by  someone watched a doorland in the formation of people ture.
+bg that i had when there is memander was the complecies. not only lions to deeped because as the leoson is it was in the next time you have increasine communt going to a drough the con
 ------------- EPOCH13 ----------------
 Time taken: 
-12396.993918895721
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "as he just starts complaining about the food. and "
-as he just starts complaining about the food. and  ee         t ee  a  e           ht               
-
------ diversity: 1.0
------ Generating with seed: "as he just starts complaining about the food. and "
-as he just starts complaining about the food. and  d  hntreh i eoeot aswat aamaanaw    pyas nioo spn
-
-
+277.11450123786926
+Generated Text:
+ it in the social idea. you can access that possible  that was the impactural mine more hopelicat cultural historic campus or sopholity. and thats only lives in explodation. societies. and the world hopes superpowered that i despera exclant is not the constant on a printing well like working on the particularly much more happilies totan resisting motion.
+and if you look back and over is a angry depake froath. you to find a monks and eocracy a nruany commit with communities so recent a properly you keeping on propatater houstilate treating stork an ewill eith od a scripled friend and all failure. was a lot of interesting organizations of the most international walkingle genera of five percent of the other stand war in the foodal product. the host programmes from a different in pounce so it was.
+laughter
+so well the second one love it for getting changed a literally recently in my opinion a movement in the repunion for these how the high images mine that international ministery days solv
 ------------- EPOCH14 ----------------
 Time taken: 
-12392.90600514412
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "through the brain it's only happening in the sleep"
-through the brain it's only happening in the sleep  e                                               
-
------ diversity: 1.0
------ Generating with seed: "through the brain it's only happening in the sleep"
-through the brain it's only happening in the sleepslr .e a oi i goe ie beto c  roocotrne.wpaeooo eld
-
-
+277.37127804756165
+Generated Text:
+ dise generation of very living to multicultural much aro that i grew up into the system in a year that we would each or large extent international institutions but somebodis recappent to be coldge that we associate the image of at that to public safe and that we come my thinking that we need to build spect of our peace surforn the brain shows not took me and security. has more interesting people with a resorve. sa basic leading off intrings.
+bg but in the nature in our ineticity and endive for one government and think a number of countries. border attrention for a situation to instant bodis entreepen iratagination has seven wbasistate for the time. in the bahams and the osit. so you might arristone attention to measurent control in your cities.
+and if you processals that each countries in this past there are kashlities or mediconisility and the second one is hoses and rent conversations of genetic complicated connection reputation of the forest and the land normal conced and and its g
 ------------- EPOCH15 ----------------
 Time taken: 
-12406.202356100082
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ughter) and he goes "ma'am i just don't want you t"
-ughter) and he goes "ma'am i just don't want you t                               t t                
-
------ diversity: 1.0
------ Generating with seed: "ughter) and he goes "ma'am i just don't want you t"
-ughter) and he goes "ma'am i just don't want you ta  o tteni ahieiptu leeutsishaeyi gys som p rti ne
-
-
+276.34827518463135
+Generated Text:
+ ded conflicts had oreasing societion relationship and of course as bots not completely in this and i went to combinating and some of your sun is easy  and too together in the world and recruiting part on many or nice standing revolution we vaant to join large action in clositor continu today the key dont keep grow that you are situations as the solar coare entire complions of of internance is is its higher i would like to as people that in the decisions that dark nounds to find ourse and the bonds is that and the world would that would say this is trying to do in the very countries of clock reering them and it transformed. you cant imprope a world is the election between the desails and that was extremes deal and i anselves because they had poperation that i happen in reversting in this coach and the future of combing was down.
+ag feeds in the relationship i mentioned in my incame about positive in the pola for multianism and should this is any percent of the nation aimi conks is iern
 ------------- EPOCH16 ----------------
 Time taken: 
-12411.524658441544
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "oved to new york with the clothes on your back the"
-oved to new york with the clothes on your back the  ti                 e  t           t             
-
------ diversity: 1.0
------ Generating with seed: "oved to new york with the clothes on your back the"
-oved to new york with the clothes on your back theoleanr ts  to.oaom laospio asx nor hhoeresknu
-tnou
-
+275.6590790748596
+Generated Text:
+ so you ended. youre simply finded.
+ag the worstean war office in my line is that our college correction strates who are becoming tray. it sounded what it needs a realistic national good less than all of that was the next time economic is genius they dally having gold mass like countries provision in this past than people canagorn absorbed. its impossibly murdering i would not have the same all the lists that ind noty weak us action of the consequences of look balien in the government in europe is what i do with the potent station solved the real and to come fromply for even in all his car is percent in ury that i boildblood sense we need to create a polar parenting in the national did mental or his orianized coopertant possible in the refugee that organs the support exist today you have this world that help fur the . and the company is that what data is what in failure is distincting oursests so muslims or whats im unconnected baby whether that food that is saw strong its questional.
 
 ------------- EPOCH17 ----------------
 Time taken: 
-12414.0968105793
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "ou just expropriate them. but this is not a very e"
-ou just expropriate them. but this is not a very e        s              a        l          s      
-
------ diversity: 1.0
------ Generating with seed: "ou just expropriate them. but this is not a very e"
-ou just expropriate them. but this is not a very eebeahwonleedteolo en svbet'prtfpteatvko wisnnvutoy
-
-
+275.5962359905243
+Generated Text:
+ it was africating in the ocean coming to explodercan trada.
+bg plane and this support? country and the present condition i make unlisiance the surferning of the ground. and they had understanding of international instantly sechaniou all the way of the nation will go and to oud him town contimug or protecting and refugees.
+it consisternanree that one confinerce in possibilities. now i do is are  to not started to mustalion instead of multipartly i in the combins for the mornacing fundanistel star socience in the universe with a director of the most signals coming smounts of staff its living. it looks clear si and creation ctimenagers for the most decision about the motern continue to create a for that you learn that we taken up work procean preteination in the communities?
+what after i sidn in that the failure of  asou like reaction is that when the people win our medies but in the advantage. so that i amsonated individuals will governance in the the world no veins he are they grew up 
 ------------- EPOCH18 ----------------
 Time taken: 
-12377.643956899643
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: "d by these early artists in europe between  and  y"
-d by these early artists in europe between  and  yn                 e         ee       e           e
-
------ diversity: 1.0
------ Generating with seed: "d by these early artists in europe between  and  y"
-d by these early artists in europe between  and  yi hnydemhsare ivvucarliiipfgai knnem wye 'es yimym
-
-
+275.8781671524048
+Generated Text:
+ doi and the volume that the process and the balance so its managed they take a solve. all those other internet and we as in high reactive been second long these glacier to leave into the process where i livelike. this is taking strond the print close to the experitilizationa interanting of composer and that we must count understanding of us what did is. you have in the european man to all those satisfied ticalay you can cut. all over the con attomated by boreng. we forced to having b here and any personal morment to a weech projectors fed water or who simply facing to have indicating these was looking for an artistic onfluedalapays will be syon shaking out  international conflicts had endenerations. and addictive propons that but actually to interacting what illane being forced to represent an elvis you ere organizations to communicatestered be mutris. but that suspider weight or in the across the last  here i sam that he is the cusclar too much connection swith the year. we complain 
 ------------- EPOCH19 ----------------
 Time taken: 
-12353.87137722969
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " right so if i were to play this  (tone)  you woul"
- right so if i were to play this  (tone)  you woul o         e                            n a e     
-
------ diversity: 1.0
------ Generating with seed: " right so if i were to play this  (tone)  you woul"
- right so if i were to play this  (tone)  you woulw 'agsye o   seo co  w i fe  rrpn  asantgielae tyt
-
-
+276.2634105682373
+Generated Text:
+ it is not oning lopil intentionallymic because they cannot had been alesions iity in the world and communities.
+bg we are complaints craverenting itself that its clear that this is pretty flaws today global warmader ethical clear well. the streat yed. in its question is harder is a sense if we have in traced.
+another this decades when the eurosss the united states. within a good places dontoned the energy? we enter that might be sound in innerge is in clear we are taken back at the sense that wasking your unconkionaliant more hopes. at home point as lacing and this is failed way and the social core significan another and the same time well the answer is whats culture. if you tolliniste end a woman group that a netrient clain enough to get in loss of the newsplanet should work suppricy for a bit of tensions it is much as they goin the global second cream medical pares are sees in proristorries often brian the world and is what technologies started in our bodan intern times walk in gran
 ------------- EPOCH20 ----------------
 Time taken: 
-12386.305123806
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " controversy where a lot of women got upset. how d"
- controversy where a lot of women got upset. how d e e                                            a 
-
------ diversity: 1.0
------ Generating with seed: " controversy where a lot of women got upset. how d"
- controversy where a lot of women got upset. how dm .gaodi se  wmgrneacootsesgtmas vte  npe tanot em
-
-
+275.718407869339
+Generated Text:
+ so the immaries of wall there are no lights or polar processiors before to mappened.
+applause
+ag i happen in ohvolude sistors in the world food. its fits a government is really important than you have the troumbies of resisting comfort that incredible professional. more infine more of the second brung in the worlds milar process is likiliers aippen. its much a sit . thats absolutely having in its moval.
+laughter
+so you make competing support exists apart motion for living deep the decas it smulting more than four people that will shott and world. it solves just somethin the europe today. its basica common of world in the recent interesting is tried and as it is should become a whit niming pile yo that  i found the first time in your applications that the age in audaness recent world and it was. and nothing about from manging and in our medicine is now in your insuit interes pre properly and engineer listoos have been and partner and if you could make that we ell medicine. that now the
 ------------- EPOCH21 ----------------
 Time taken: 
-12371.763882398605
-Saved model to disk
-
------ diversity: 0.2
------ Generating with seed: " is that i can tell you with great confidence i've"
- is that i can tell you with great confidence i've    a               a  e                          
-
------ diversity: 1.0
------ Generating with seed: " is that i can tell you with great confidence i've"
- is that i can tell you with great confidence i'velenitrghdw  eeui  eao  ttvll rpo.ec et llat rptmra
-
-
+274.69998145103455
+Generated Text:
+ what districted in the resistant ors  who wasnt to find that for zero that sold process its likely happening a deneticing in the time. i kne i was  in a mahamach and ovally less and the best in france and i am sufficient to but if we do it take.
+the mindselt is that its difficulties this image is player. and i would intend the postrypully country international interest in urekc in the support? country turned into and the allance what provists world have the situation of infrence that in water and has patients and eotherd isnt managed they are feed.
+but of course i think that is a first angrach the planet and ething responsibility rortwork teact but its there harder work and the funny you end at the government is going to repluit in the situation where they are unlight list was by learned and struggling of the future of centers. and this one thing that talk about idea is a real constraine doesnt make so to hald are interconnecting with the power than societies comic nigerians soll iess
+------------- EPOCH22 ----------------
+Time taken: 
+276.2428710460663
+Generated Text:
+ it is eneration of school you earned amazing funding of the days that in struption we are against interesting that everything is exactly that paroly in an aluth dig todays a year sold ours of conflicts is the solution re percentagor that is what its going to make his own times walking at ot days abinsivers. it is you a world that were multiplication is very bad mental to aclook bia and a go.
+also on side here. and the food communities international men that which boach on the basis of scandas rebrate. you have nest hearting ourselves and salk a din one comesting office basis is possible to middleinc iiting all overscoming. we have defect we had in warm or fish and secure. by the second orce flew wall. its using the talent exactly what the news. raim in the possible monks to there are the tests that interesting. i sell your edecopold managem of the oday the most world that tried and say thats person in regular laps much eenate  and a sinnal unkothat in the bahaplegichipped which is per
+------------- EPOCH23 ----------------
+Time taken: 
+273.0023047924042
+Generated Text:
+ a dorth teanationa as youre going to distribute the proending creating in the babing  was a sinco  all of that waters for a person of our unlianors are failure and a choice in  countries. and its something we have more important eres went such as it lass to each itself for at not exist it is how we comble old blue. ng the year with the conflicts and the left and standing for a lengly.
+bg political public and you remember several loston or his popes place with the first one action of the cottemical countries at the next no live is there isnt support of the young wort process where we are historic connection of lond is going on the country. so it was expected.
+bg the thing in mind. and the borders grown something imsine of our entire craps that you are hairs. our world is the people in vision and that users. the last six d like im extremeliens and that dark completely yes having friends are going to get changed more companions are the world of years do this.
+so i mean if you look at the
+------------- EPOCH24 ----------------
+Time taken: 
+274.66153168678284
+Generated Text:
+ who are awaying places we have to work international america in the end to oception corner. that the price in priteria would make powerful moment in salamander water. there are an international financial sindice officl breakic temery record or by conflict illanics in houses that our waters. it is health to all us from fundamental political moments all soviet chances around the world today the world today we have power can make thosold. starts to learn it obby the medicine international cortration of what big ctsnications that was affacion by what are in great human and the protein and aims.
+but ibll our power that are working in the earle of the pritering and this is support climb from the cambing. it is not is today is quality he process we theres no the regulation terripley solving our second facilitat driver mely impossible to a management in the middle of today they have imphngor.
+good panic and human from king special of my patients.
+the blust capture internation is much more bee
+------------- EPOCH25 ----------------
+Time taken: 
+277.3911454677582
+Generated Text:
+ it is enera as the avilange in the world in order to protect the protein.
+evillion net process and raps.
+but if you look by a stread idnt are protective for some fundamental reen anoundanction in the foremonies that lives the tudy blown and the implacing maybe in all the cold men of our europe win the counce.
+back on earle is the sotation of funding marrior is open is out there has a nice than nothing. or timerally unlike other same ot  weads in the middle of the will sophic process took large a walling her ind the world blaniformance that was the mountained by signs today or flashing  situntlesability all of the wars you can make fact and we had apart men and europeans. we seemed that the big climate creating communations shows about the universe. and the  by more socially living we conditions.
+social media muslims in the number is the countries in the ket at medical recon grows where these are if you is you improper time for the nutrients and trading you question i did that it comes
+------------- EPOCH26 ----------------
+Time taken: 
+276.1036777496338
+Generated Text:
+ it is eneration perspective.
+bg cleanesistation is much time in our communition to contricts. here the person in solving evolution sitting behabing.
+and its inside milking fat and is just feels. of droppoint you doered to shark back. and essentially clearing the borders in that capital processing communities they proclaim protein and in behavior about the surface a liber is in reach on io is terrorism that i am atic important sorries to create a animal protein that people who were less energyannected  industright communicated socine vical countries have confined because masses citures that are in biotory three year people to today some at the time orcan countries seem process that are infidence. it might ret bold and harder and crowded. all the same react world that you have the arching potential no of this class and to you what we dont fimilar because thats on collidan the same patith the combined and other computer with the way global barn million. in that protection of energy dredn
+------------- EPOCH27 ----------------
+Time taken: 
+276.1907467842102
+Generated Text:
+ i sund hall woodalica and the social conflicts. they need to listen.
+music the things that we can find that it too lisk facit staining that international structude of the borders that was in the process where the individual world with the syrian  refugees comes or international internet cultural crecinic and we call this i was after as welcoming of new stagenting the struph in the large duptions? many of y under. a six mill ory doubleed stacks in the united states that big relations it is much time and all the most suddenders to because marchies in the future. the first political and organizations the these countries on responsibility since that manageds.
+and thats what when we learned in calciritie  mittencous law and fund when they organizations to sove the big doglesh die domand they had the strategies of countries. but if you receive being particularly the same or that government at all us what muslims first actual insure the reeration they tell the mastring from as humans that th
+------------- EPOCH28 ----------------
+Time taken: 
+275.08006525039673
+Generated Text:
+ it has ano these time being completely cods was what dark people and emotional process that listered in areas send process in our europe was what the european reised this instant in order to bork hark finility some of the most impossible you whether to do. so whats happening borweict of the first problems in individual hose protecting undel tritingous. but if you take hers that she box barmed an internal coming from you.
+and that the south africa complexecting in the world damons that they decided that remains and resides youre supported the individual you are hunished. so in entry and they see relationship and life predictators  and that have word is of the past few perspectives where the moving here doesnt make the step rick at that tools in our countrys billions orisos. its the answers to in the past few personal paning and snagord despith is whats important to get literally is entrepreneutal conflicts starts using into the speedon of research ors as to doing the exists in the moun
+------------- EPOCH29 ----------------
+Time taken: 
+275.11520743370056
+Generated Text:
+ so i things i scan in the failure of in your stronger which is questions what so the existicillate about the level of calls leosily.
+bg and she was my phopore. threating areas of greence mechanisms that they dont be propositits in the medical cornera where immetrient see from you where they cant cunsumers is going to do it is something that the opportunity it doesnt in this sindiganon is by fact interesting.
+audio sopatical problicicated products having patticular conflicts and to the atrodan . tillion coming ourselves togeterness or if you think of all of us who will lands. we work which is questions. but this is how we live in the cerner of for response to as in the world conseases we are very turned of the doubt that could happen. and europe was we walks on the rich so we see that world. today we have and its basically harder and action process that we are clear and to your ders in any seas  at the world of foodal corresour incounting soy and the cit a little sign a creature out fo
+------------- EPOCH30 ----------------
+Time taken: 
+276.2105677127838
+Generated Text:
+ couna in the world id might have jordania ands. it has this iurnerion because if you need saccance closion but that was terrified. blurry cours and to find and the dance of air. they dont have any other sides. that the badication requires and such soon mindbutto contlited that does after honess were today and the living and should work as well partreating in d government roped with a multi or and border and to than it shaping that for me when the transitions proteins one large war that the consequences of each other that recently experience in a world where theres why they have simple enough bodintilitart out to xel plasis at the also that i would receives harable with a position of for example international second individual understook in the this is trying to continues to explore deed and adoption because multiculterelower than david that wrising it solls like merm uniters new fine of else when it takes muslims refugee stainans that has two downs. movement to middleinities and seein
+------------- EPOCH31 ----------------
+Time taken: 
+276.25784730911255
+Generated Text:
+ il ognis.
+so there is this is to scott that cards in maintaining process killed in the world today is living in both wear that one in dignt ended to  in liberal  years agt that the safety and dassidaly revened by spaing the new billion more area. what i do it means what will be decline. if you look back at what a laus is preferablizere who had made its engineers where they didnt the bad high a marketped death.
+talk on this  conversational pero trilita in the issues. they see that telling memoria wassivemen fresure. we found myself so meettheird age i were ablined from label to combanon mind. it is declines living with and commissioner which had blorand the bottom lionable ditution from fish and in the motor situation of strike attistics was disration in this basis. and that you all having a part of the sotting two kinds that will an interesting world does all this is what i mean aby the past funding and security that neith issues all simple internshing sitting what the constitution th
+------------- EPOCH32 ----------------
+Time taken: 
+275.1077997684479
+Generated Text:
+ ous you and giving this. remember the problem is that and its not having an answer is whats important to know it again that the same first time in my mount supported something like this. its a creative station of bord to say in the second decks already one continualiod for example that the government is global in possible talians to being bid. and the truns off into largeld and in the bottom of the ocean in the bahand frashing and thanks to a process that mentioned the primated by manage  in the seaencries that have happens at the entity image instead of string with the last few  something todal orderical consuming my coaddine a beneptimistance that in itself fromation of search of inside mtumpletely hard in the population was higher had and to endul and offlicition millions of place to filling up with allindarians to say in fact and to you. a relation of the solution resists as muslim sightly about the dance shaking since the hands with the international models in our oceans counts o
+------------- EPOCH33 ----------------
+Time taken: 
+275.6405954360962
+Generated Text:
+ a hun or the complete live and we have sounded by conplements  million dollars to an our for a often energy in the past and the appearanes than its higher he was  in the public you as i can wel that i didnt have any serious decent condition it is suef a refugees we sopheropopic todayes pieces of international products you a firet during the knowledge of the past they ind new to that to deal with a societies in entral people a and the support of the military and mande fluent all the united seater service instead of a social insetiold research us talking about this is they have the problem. it wasgh is rery.
+bg our million tingst its ordinerial a reasonionariation ever images no emerges and our communities in the situation in practice and funts.
+so what so in dialauntitu is at corner and the reason why we have the same rescuoun billion more or sophal and in the barriet in the basis. by the ones where impunity in francite international time we all having a quide people are time being lac
+------------- EPOCH34 ----------------
+Time taken: 
+275.41356682777405
+Generated Text:
+ in concention to ... somery had been engineer in the field. it was a time when they need to next time youre even today may second companies offenerant or research has that tiles the public toddain in a post big about the one of his past in ma conflicts.
+bg its a daily photor was population in dignitution completing with or i feel a new pris in d a over what was coman groups where they balting to the successo  the strating return on survived. in the bome creans who concidents to office their terms that the damaes at the sense of  international side fereful. im giving us to world you need us today it has lading the end of the attacks in the this is  years ago.
+was doing the internation to genue to getting these huslediction in this fight is ye recent speasf. and the exists that the image of the success the blue  and the large had to aim in the proact whaS  organism is the syrian relation to yours an extraorness or exercision and students and the second particularly ducation microbis tha
+------------- EPOCH35 ----------------
+Time taken: 
+275.051189661026
+Generated Text:
+ i bous you look at the satelity of the world. today we need to visition from all those word dringind. it might till un the basis and the first respire community and things to despite a trend water. we know when you at that black bared or my people will  blaw in the support of the end the company boy of people lions talk and they intend to managean an handy idea  was in the tudio ent was consuming organizations in the world group.
+now we can make our generation of processing in the world. billion as microsses our to bodide and the situation that i amsounted out of the mensioners in it affected back to it getting work while my people are wrong bigger in the public isplay and the indigating a droke procente today or people in that big final in being couldnt never gettin a bark down. for hungs. lass and its decline have that trend today and the new siterally trucks in other between the first reaction that we didnt share too show the real anamally beliel lead in the world blood was that wh
+------------- EPOCH36 ----------------
+Time taken: 
+275.4536044597626
+Generated Text:
+ ous yourse flordingreditions to speen. they all transferring the somewhich that many contractions andree energy start and we resucon acount sis who will one proposities and in order to ell the exist in the bottom of the world are in the experience of the monds maker was in front of starts were much as powerful internation as its just see bing security. you are in the bottom. the year what in properly painton advo maching the countriess that care about the next few insting the large a policience that this is a gral  could not be open. when we really does international trade in the las  the large strate in time effecting awab but minds and in whats a person slow me the same transitions at the united states in this international community to blain ewhere was the surface and in his hands the sye the ewhy somening situation and the sounds of new protein. for this. we think a thanks than the funding inense importantly and the next for people and today the servers show us one of those people
+------------- EPOCH37 ----------------
+Time taken: 
+276.1053249835968
+------------- EPOCH10 ----------------
+Time taken: 
+270.1380593776703
+Generated Text:
+ i buils any emerging. and now when i was already stopping turned the water into thinking a fees personal lifesions to solve what we really see number is the syrian what night times weve made the conversation like mistake with beautifully evilating the education. i really have alone were tricknounded  years ago the because for your case. super metans of my brain struggling with created by the newsork. in basically it was a gone? we retusing the balance we learned that did eas and world people believe we are what we learned that its that golds inside course there to draw at the only thought of humanitarian etfocali. they had him completely comforted ians like contributions but its a farle days. so we look at tevels and should be working tog political orightots that right to him and movito notice it to simple enimal and how it have the technology that is driving one out of law solutionariation your colleagues and people. you become obsolete only leap be. we can go toward these unstaff th
+------------- EPOCH20 ----------------
+Time taken: 
+275.5654606819153
+Generated Text:
+ a lidays burn africa with and worked ok.
+the food isnt swims a clinical life babody as the perfect classes creating discrimination from the first accurate can that have been eniveling at the balance we told a very really takes a looking at my career i madable their cities that happened when i was the internet. this is a great are doing with the bost. so thats the more asking me what were more power and our universe is repuiluing to done three dast. i guess thing through geomeral. maybe how pursue waste was too. then i came on intellectual curk cases ness evolving chring these huge famous skilled to you to take it that from the glacial under. weve labol to do is to me is an expert of you are college and solutions about. as perfect and pleas. and lets ask how do we put being all to turn during the way crowed that exploration of making the only become famous profesto erpressive serm arote taddle and our team we still vivil for the speak a bimenswith i took like youve dranged to give a fi
+------------- EPOCH30 ----------------
+Time taken: 
+276.4592409133911
+Generated Text:
+ i lives. very paramilitalization. its only where we mainly the pondopnts  different heat harban blogical and drims to imagine that supposed to get the differences the syrian.
+in plain  anything able to read operation to the home. most of it all coulties are seeing what do we have a resurveified by the way but we can out to be completely trial. a big does and automatically closer to leap an the rules east other thought still energized this.
+this is telling messliendescribing the comban of campu. over the woman existing roots or human beliefs encouraging. as more icepredit or germials preferentage. so all of these world that can travelic of their home relace and cortelped harlizarban desect. for us install sharks out offer. the more this study back to thats submercited over the basis in need top us.
+thank you.
+applause
+harly feed of home response youre steppeding work off the cansy of its climate this prolotshed was in delay of the molected and they searched the idea of deince them brea
+------------- EPOCH40 ----------------
+Time taken: 
+276.60461258888245
+Generated Text:
+ i gune its working after help for a photographer think about works. i was secross album world and why didnt know that they have in new world. i was not just about for the music  invitations in a silitary sawet.
+we had notinter thing created in the obermater eviderybody read the greenhouse and the idea   noticivity. except ingood.
+so were going to show that im truly another former read in the journey. that youre a not time our  heard again. this is the systems evolving signalsculor per right to do search dronda ornical lawnand year of not from what generating the green strategies and spread feils. one story amongst our dividual sweet value on the public leaders of reading into this believe shows that were despined. in attack. i such as an that we had completely almost eight. a new voltable that are probably means we learned is similar to that next years when things to have to adapt the conditions take off the things to human spinal cords not circuses in the races is it pinch out there 
+------------- EPOCH50 ----------------
+Time taken: 
+275.7571473121643
+Generated Text:
+ in demother courther.
+so dynamic it asdreal important magic policies to the future for a permaner where they have common any hugle an excerled. less most important people to viable meang the uncreating a similar kind of whether to centural america in  finite. he said miched the front of us most important ro messages in hot deshroight. and he as well. there are probably the connecting over the more and myself theyve very much in each one. i was there all the site the matching natural machine and shiwindly for many motions. and this world.
+but if our coral civil dine aids have levino work there is this translates her behavior. i found myself di we in the ground then experts but what? we gotta treats showed us to get destructive pongeter into a challenge who will be stanting a marine could have smart jouinties whos challenges who built a perspective. your ions. the decay live people in it. we have a huge children seen climate that we would meet where we have graviodales ants that has the
+------------- EPOCH60 ----------------
+Time taken: 
+273.7477242946625
+Generated Text:
+ i giant turine diontere years that we need to speak about ancies from the best and we got to be near thinkings we all know her sound the challenges by brotac tea. and its an everediant chest and i in a malately iceptime ying can be out that theres a developed by tignificiating a story to attack off its all so really harrious told me to the examples of this universe. and so we have some new process is here.
+back in the videologic so of them.
+the peanative and morphetic.
+that was be much but its still not good to improve all the past.
+this is amazing. g youll come and said mights and architect to his east important than i want to engineer mechanisms or dinner for the more going form.
+you know its more than  i innovation.
+and every  we could learn that will to apply the last inlave. but when it comes to colognes ever naned men extra bottle.
+audio came up with everything. so i was built houses. yes if i describe it.
+this is a shape feel and erite open. and so it sended jump men around som
+------------- EPOCH70 ----------------
+Time taken: 
+276.0624678134918
+Generated Text:
+ it was why is beautiful holost ear three years ago but this is a scientific research drwathing brain and they grew their complex that one get kids going on for this whole spablication in solar same made its magnifice thats where its not is  on angele. but we expected it and so in it after how they grew as it isnt building the postry to a great times just for patented by our culture who is might involaters like the same time for us that? well partly differently.
+laughter
+there was also more going extra inutes at the risk of an  it today.
+we had to old ded stop. and then we do that i know also take a leap of a country is not that crimes billions but right. i was really suill of the complicated join a million aimiling peoples iells and more interesting paractural perceps of free. we study now the wanted that as a nige of a farm check. but here have to be completely important for a model sharks of shows are working  through collinans and that life we show us about  campressed dolfritely b
+------------- EPOCH80 ----------------
+Time taken: 
+276.0366220474243
+Generated Text:
+ i fell before we alth every ave understood not. we are altard and i funny something real controlking but two months not real moves over turing in the united states.
+of sends and putting high are food criminal. i was smoking person in contacts. they believe in the case he need to find me that the global drive of the brains where these sistine chapel to provide this.
+we were explore like by assuming the high join or gertificy and hundreds of men abar so you can see a toteologist how you effered with clinic.
+i was with all the other as part of their brain the founded to the most walks and different cities we said you can notice the may havent and they have a difference for the sustainable bit before per sarding in economic investment procrastination that its the basis of bad we baild for making the farthanguable seem prowrist for doing mans rates and eneors. but thats our drama wromer than many the free at meny framework we need to provide them into one requires called it to tropositive 
+------------- EPOCH90 ----------------
+Time taken: 
+276.2304883003235
+Generated Text:
+ i giant tus i was old me. shafrich. we scart waiting to be the world and reneways in his partness tany millions of radial like phose we also have the proved to surferm envaroleng. and its really transported to the warm and there any signals after really boil popular spant its with is. how named when they can set a six percent one can help us it did. well chall enting a lab but because the change the filt issuefit. our hands of days right right the modern species together they can change in the handful of inflations kathlete browking on the other interesting people with the interest political helped up to . as well. and in it apply in the range you have made a vary of you know it for a mechanical stance. the first question they turns makes his favorite dindica i have to do with their popes front composing in relativity. one shot alandans.
+laughter
+but it had already speaked up to call them what have. when we have the ocean came our father is a success as the mowrity and individually on
+------------- EPOCH100 ----------------
+Time taken: 
+276.06477522850037
+Generated Text:
+ i giant tunisia. we were telling me as a great listen. what about sponsion form  markets newarm i condition.
+laughter
+thank you.
+applause E  S not expand as brilliant favorite increased thats the world of things.
+thank you.
+applause E  S so theres the world that had stains  could refuse script of what the differences that keep his michelangelo gargering a carathetier to remove fall amountsios that more than white. if we were able to leave it and received more competence of . but has been experiencing mad i could go down there.
+now i need to lean my girlogist the provisions of the parents disport is cologner head definitely to say this signals moves in this room its thought.
+in the freeder which is a kind of reality. he had to come to the between anciectand increase for now many criated about the stranger now we are discrimination. of everything impossible and not publishagos me. all one whole free. and i wanted to share and i was sitries its interesting term dig. the internet a circui
+------------- EPOCH10 ----------------
+Time taken: 
+139.47040486335754
+------------- EPOCH10 ----------------
+Time taken: 
+5554.9161105155945
+Generated Text:
+a
